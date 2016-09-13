@@ -1,0 +1,800 @@
+Surrogate code,Study Area,XRF_Setting,Sample_Type,Source_Zone,Source_Specific,Sample_ID,Rb_ppm,Sr_ppm,Y_ppm,Zr_ppm,Nb_ppm,Si_ppm,Ti_ppm,Al_ppm,Fe_ppm,Mn_ppm,Mg_ppm,Ca_ppm,Na_ppm,K_ppm,Bag_Info
+Suco2014-0,Mt Wellington,Vacuum 45kv 15ma,Artefact,CVZ-CP,Cooks Bay,AR 3980b,,,,,,394662,455,88259,5221,600,43501,6284,63640,29871,
+Suco20141,Mt Wellington,Vacuum 45kv 15ma,Artefact,CVZ-CP,Cooks Bay,AR 4035,,,,,,361744,627,85686,5839,574,36182,6179,48430,24125,
+Suco20142,Mt Wellington,Vacuum 45kv 15ma,Artefact,CVZ-CP,Cooks Bay,AR 4049,,,,,,397197,516,88486,6272,802,41326,6351,49068,33093,
+Suco20143,Mt Wellington,Vacuum 45kv 15ma,Artefact,CVZ-CP,Cooks Bay,MW 022,,,,,,383408,562,87213,5987,725,38486,6323,53659,31877,
+Suco20144,Mt Wellington,Vacuum 45kv 15ma,Artefact,CVZ-CP,Hahei,AR 3996,,,,,,442346,380,93010,10422,754,70791,8329,130244,35143,
+Suco20145,Mt Wellington,Vacuum 45kv 15ma,Artefact,CVZ-CP,Hahei,AR 4001b,,,,,,421639,902,90918,8235,879,56967,8802,90131,34518,
+Suco20146,Mt Wellington,Vacuum 45kv 15ma,Artefact,CVZ-CP,Hahei,AR 4006b,,,,,,413706,351,90544,9675,676,53824,7723,85044,33268,
+Suco20147,Mt Wellington,Vacuum 45kv 15ma,Artefact,TVZ,Rotorua,AR 4010,,,,,,294543,316,80290,2900,344,13080,4955,17087,25794,
+Suco20148,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-CP,Cooks Bay,AR 3980b,138.0,70.2,29.4,152.6,10.2,,,,,,,,,,
+Suco20149,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-CP,Cooks Bay,AR 4035,100.2,52.6,26.7,129.1,7.2,,,,,,,,,,
+Suco201410,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-CP,Cooks Bay,AR 4049,116.6,67.7,29.7,147.5,11.7,,,,,,,,,,
+Suco201411,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-CP,Cooks Bay,MW 022,107.7,61.2,30.6,143.8,10.3,,,,,,,,,,
+Suco201412,Bream Head,Green filter 40kv 8ma,Artefact,CVZ-N,Fanal Island,BH_FS_19_1,175.2,32.2,34.8,250.2,8.7,,,,,,,,,,
+Suco201413,Bream Head,Green filter 40kv 8ma,Artefact,CVZ-N,Fanal Island,BH_FS_2_1,185.8,35.9,41.0,260.5,9.6,,,,,,,,,,
+Suco201414,Bream Head,Green filter 40kv 8ma,Artefact,CVZ-N,Fanal Island,BH_FS_21_1,206.6,39.6,37.2,270.3,9.8,,,,,,,,,,
+Suco201415,Bream Head,Green filter 40kv 8ma,Artefact,CVZ-N,Fanal Island,BH_FS_22_1,205.1,36.2,39.1,285.4,10.8,,,,,,,,,,
+Suco201416,Bream Head,Green filter 40kv 8ma,Artefact,CVZ-N,Fanal Island,BH_FS_23_1,175.3,33.1,36.5,235.3,13.9,,,,,,,,,,
+Suco201417,Bream Head,Green filter 40kv 8ma,Artefact,CVZ-N,Fanal Island,BH_FS_23_3,197.9,37.2,36.2,258.2,11.4,,,,,,,,,,
+Suco201418,Bream Head,Green filter 40kv 8ma,Artefact,CVZ-N,Fanal Island,BH_FS_23_5,186.8,32.0,40.8,319.3,11.8,,,,,,,,,,
+Suco201419,Bream Head,Green filter 40kv 8ma,Artefact,CVZ-N,Fanal Island,BH_FS_23_6,231.9,38.5,44.6,284.5,12.0,,,,,,,,,,
+Suco201420,Bream Head,Green filter 40kv 8ma,Artefact,CVZ-N,Fanal Island,BH_FS_23_7,205.8,38.5,40.8,256.4,9.4,,,,,,,,,,
+Suco201421,Bream Head,Green filter 40kv 8ma,Artefact,CVZ-N,Fanal Island,BH_FS_23_8,202.5,39.4,48.1,258.8,11.5,,,,,,,,,,
+Suco201422,Bream Head,Green filter 40kv 8ma,Artefact,CVZ-N,Fanal Island,BH_FS_23_9,198.2,39.6,37.6,250.7,13.9,,,,,,,,,,
+Suco201423,Bream Head,Green filter 40kv 8ma,Artefact,CVZ-N,Fanal Island,BH_FS_36_1,242.6,39.9,51.5,292.8,9.4,,,,,,,,,,
+Suco201424,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Fanal Island,AR 4017c,206.5,42.7,42.2,270.0,11.8,,,,,,,,,,
+Suco201425,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Fanal Island,AR 4017g,201.6,36.5,45.5,257.4,13.9,,,,,,,,,,
+Suco201426,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Fanal Island,AR 4025b,194.2,39.3,46.7,244.4,14.1,,,,,,,,,,
+Suco201427,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Fanal Island,AR 4027b,202.1,37.6,40.6,268.1,12.7,,,,,,,,,,
+Suco201428,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Fanal Island,AR 4031c,182.4,26.6,35.9,188.2,7.5,,,,,,,,,,
+Suco201429,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-CP,Hahei,AR 3996,137.1,93.4,35.9,192.2,9.9,,,,,,,,,,
+Suco201430,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-CP,Hahei,AR 4001b,131.3,71.4,30.2,157.1,11.6,,,,,,,,,,
+Suco201431,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-CP,Hahei,AR 4006b,148.5,98.1,31.6,261.7,10.3,,,,,,,,,,
+Suco201432,Bream Head,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,BH_FS_32_4,156.2,40.0,37.4,155.2,11.5,,,,,,,,,,
+Suco201433,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_11_1,135.3,37.9,36.6,162.4,10.9,,,,,,,,,,
+Suco201434,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_11_2,142.5,37.7,32.4,155.6,13.5,,,,,,,,,,
+Suco201435,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_12_1,142.4,45.1,37.7,183.4,11.4,,,,,,,,,,
+Suco201436,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_12_2,160.3,40.0,39.3,177.0,12.5,,,,,,,,,,
+Suco201437,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_12_3,153.7,34.0,38.6,166.5,14.0,,,,,,,,,,
+Suco201438,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_13,147.1,36.5,37.3,151.8,10.9,,,,,,,,,,
+Suco201439,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_17_10,163.1,39.3,38.0,171.2,10.4,,,,,,,,,,
+Suco201440,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_17_2,125.1,37.0,35.9,164.0,11.3,,,,,,,,,,
+Suco201441,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_17_3,144.3,35.1,34.4,162.4,14.7,,,,,,,,,,
+Suco201442,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_17_4,132.5,40.3,36.0,155.7,9.7,,,,,,,,,,
+Suco201443,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_17_5,142.9,34.6,35.3,173.9,11.8,,,,,,,,,,
+Suco201444,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_17_6,138.4,38.7,36.4,176.0,11.4,,,,,,,,,,
+Suco201445,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_17_7,146.8,37.0,34.7,163.2,11.0,,,,,,,,,,
+Suco201446,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_17_8,139.6,38.8,35.8,164.3,13.8,,,,,,,,,,
+Suco201447,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_17_9,127.1,38.2,40.6,145.0,10.1,,,,,,,,,,
+Suco201448,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_1,133.1,37.4,35.1,179.6,13.1,,,,,,,,,,
+Suco201449,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_10,141.2,36.1,31.9,151.0,12.7,,,,,,,,,,
+Suco201450,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_11,139.4,36.8,39.3,165.9,11.7,,,,,,,,,,
+Suco201451,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_12,143.2,38.0,35.7,167.3,13.1,,,,,,,,,,
+Suco201452,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_13,134.1,36.4,36.9,164.9,10.6,,,,,,,,,,
+Suco201453,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_14,148.0,39.9,39.3,180.4,10.3,,,,,,,,,,
+Suco201454,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_15,131.2,38.6,36.4,158.1,12.7,,,,,,,,,,
+Suco201455,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_16,136.0,32.8,41.6,175.3,11.8,,,,,,,,,,
+Suco201456,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_17,147.7,44.1,39.7,172.5,10.4,,,,,,,,,,
+Suco201457,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_18,139.0,39.7,39.0,171.3,7.4,,,,,,,,,,
+Suco201458,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_19,141.4,36.4,34.1,160.6,12.2,,,,,,,,,,
+Suco201459,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_2,140.1,40.1,34.2,148.3,11.0,,,,,,,,,,
+Suco201460,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_20,149.3,38.3,33.6,170.5,13.7,,,,,,,,,,
+Suco201461,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_21,133.3,37.1,35.3,163.1,10.4,,,,,,,,,,
+Suco201462,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_22,142.2,38.8,33.2,179.0,11.0,,,,,,,,,,
+Suco201463,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_23,137.4,33.6,34.3,158.1,11.5,,,,,,,,,,
+Suco201464,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_24,151.4,33.9,37.6,165.7,13.0,,,,,,,,,,
+Suco201465,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_25,146.2,38.2,33.5,184.7,11.1,,,,,,,,,,
+Suco201466,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_26,141.8,37.9,37.0,169.3,11.1,,,,,,,,,,
+Suco201467,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_27,158.4,44.1,40.3,196.3,14.0,,,,,,,,,,
+Suco201468,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_28,153.8,40.4,40.0,163.8,12.7,,,,,,,,,,
+Suco201469,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_29,135.1,38.6,40.2,177.6,11.9,,,,,,,,,,
+Suco201470,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_3,135.8,38.1,35.5,171.3,10.7,,,,,,,,,,
+Suco201471,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_30,149.8,43.5,42.4,185.3,13.0,,,,,,,,,,
+Suco201472,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_31,138.4,39.7,39.4,167.5,9.8,,,,,,,,,,
+Suco201473,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_32,152.5,39.9,36.3,160.9,12.5,,,,,,,,,,
+Suco201474,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_33,154.1,43.9,41.9,174.4,13.0,,,,,,,,,,
+Suco201475,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_34,164.8,43.7,39.3,174.2,9.4,,,,,,,,,,
+Suco201476,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_35,143.0,36.8,41.9,145.2,11.1,,,,,,,,,,
+Suco201477,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_36,118.6,35.7,44.5,137.9,6.7,,,,,,,,,,
+Suco201478,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_4,144.6,35.6,29.5,148.4,12.5,,,,,,,,,,
+Suco201479,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_5,141.8,39.6,37.3,166.2,10.1,,,,,,,,,,
+Suco201480,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_6,132.5,36.6,33.6,148.6,8.5,,,,,,,,,,
+Suco201481,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_7,140.2,33.6,37.0,156.3,10.6,,,,,,,,,,
+Suco201482,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_8,129.1,34.4,33.8,157.7,12.0,,,,,,,,,,
+Suco201483,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_19_9,129.0,38.7,39.3,161.3,11.4,,,,,,,,,,
+Suco201484,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_20_1,149.4,37.1,34.0,156.5,13.1,,,,,,,,,,
+Suco201485,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_20_2,148.7,37.5,37.2,165.2,10.3,,,,,,,,,,
+Suco201486,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_20_3,134.5,38.0,38.1,161.2,11.7,,,,,,,,,,
+Suco201487,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_1,141.4,37.5,33.6,165.3,11.0,,,,,,,,,,
+Suco201488,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_10,110.4,48.3,31.6,171.3,7.1,,,,,,,,,,
+Suco201489,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_11,150.1,33.1,37.1,164.4,13.3,,,,,,,,,,
+Suco201490,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_12,157.1,41.7,35.1,163.6,8.7,,,,,,,,,,
+Suco201491,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_13,126.4,34.3,32.6,156.0,12.7,,,,,,,,,,
+Suco201492,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_14,132.3,35.7,32.7,144.4,10.2,,,,,,,,,,
+Suco201493,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_15,141.2,31.8,38.0,164.1,13.4,,,,,,,,,,
+Suco201494,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_16,133.1,38.7,31.8,159.5,10.5,,,,,,,,,,
+Suco201495,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_17,139.2,39.4,32.6,155.0,12.9,,,,,,,,,,
+Suco201496,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_18,130.3,37.2,37.1,158.0,8.5,,,,,,,,,,
+Suco201497,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_19,144.3,38.0,36.9,200.4,9.4,,,,,,,,,,
+Suco201498,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_2,133.3,36.2,31.3,147.8,10.2,,,,,,,,,,
+Suco201499,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_20,141.7,39.5,36.0,168.4,11.1,,,,,,,,,,
+Suco2014100,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_21,135.3,39.5,36.8,168.5,10.7,,,,,,,,,,
+Suco2014101,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_22,144.0,41.2,35.7,174.2,15.6,,,,,,,,,,
+Suco2014102,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_23,123.0,35.1,34.3,148.3,13.0,,,,,,,,,,
+Suco2014103,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_24,130.5,43.4,34.7,152.9,10.6,,,,,,,,,,
+Suco2014104,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_25,129.8,35.0,38.7,158.6,11.4,,,,,,,,,,
+Suco2014105,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_26,126.0,39.2,32.3,157.7,9.9,,,,,,,,,,
+Suco2014106,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_27,147.4,37.4,36.9,173.6,11.5,,,,,,,,,,
+Suco2014107,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_28,152.0,36.3,34.1,147.3,10.2,,,,,,,,,,
+Suco2014108,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_29,119.0,33.6,35.5,147.9,12.3,,,,,,,,,,
+Suco2014109,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_3,132.1,35.2,34.8,150.8,10.1,,,,,,,,,,
+Suco2014110,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_30,123.0,34.6,34.1,150.5,10.3,,,,,,,,,,
+Suco2014111,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_31,111.6,27.0,32.6,134.8,8.4,,,,,,,,,,
+Suco2014112,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_32,127.3,35.9,32.3,152.5,11.0,,,,,,,,,,
+Suco2014113,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_33,157.9,44.1,40.5,179.1,12.8,,,,,,,,,,
+Suco2014114,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_34,156.1,40.3,41.4,176.6,12.1,,,,,,,,,,
+Suco2014115,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_35,148.7,40.0,37.3,167.7,13.0,,,,,,,,,,
+Suco2014116,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_36,151.7,36.9,34.4,163.8,13.8,,,,,,,,,,
+Suco2014117,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_37,137.1,37.0,32.4,150.9,11.5,,,,,,,,,,
+Suco2014118,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_38_1,146.6,39.4,34.2,163.5,12.8,,,,,,,,,,
+Suco2014119,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_38_2,139.7,38.4,37.0,153.3,12.4,,,,,,,,,,
+Suco2014120,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_39,135.4,35.6,34.4,162.9,14.5,,,,,,,,,,
+Suco2014121,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_4,143.5,35.7,35.2,159.4,11.9,,,,,,,,,,
+Suco2014122,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_40_1,155.6,44.0,38.9,180.6,12.6,,,,,,,,,,
+Suco2014123,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_40_2,140.2,40.5,35.4,163.9,10.1,,,,,,,,,,
+Suco2014124,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_41,144.9,35.1,36.8,160.2,15.7,,,,,,,,,,
+Suco2014125,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_42,139.4,38.8,33.9,160.4,12.6,,,,,,,,,,
+Suco2014126,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_43,144.4,37.3,35.6,168.6,12.2,,,,,,,,,,
+Suco2014127,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_44,136.5,39.5,35.7,159.4,12.0,,,,,,,,,,
+Suco2014128,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_45,130.6,34.5,35.4,164.8,10.8,,,,,,,,,,
+Suco2014129,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_46,142.4,43.7,36.0,172.2,11.9,,,,,,,,,,
+Suco2014130,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_47_1,131.6,39.2,33.0,160.6,13.5,,,,,,,,,,
+Suco2014131,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_47_2,121.5,35.3,33.4,143.7,12.6,,,,,,,,,,
+Suco2014132,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_47_3,137.7,39.1,37.2,170.8,10.2,,,,,,,,,,
+Suco2014133,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_47_4,139.6,36.1,33.0,167.6,13.0,,,,,,,,,,
+Suco2014134,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_48_1,129.7,34.3,30.9,142.8,13.0,,,,,,,,,,
+Suco2014135,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_48_2,130.2,35.3,33.9,155.6,10.3,,,,,,,,,,
+Suco2014136,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_49,135.8,36.8,35.7,151.5,9.7,,,,,,,,,,
+Suco2014137,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_5,144.5,37.7,38.2,166.4,11.6,,,,,,,,,,
+Suco2014138,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_50,137.8,39.9,38.2,166.7,11.8,,,,,,,,,,
+Suco2014139,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_51,137.1,34.7,36.4,169.5,12.3,,,,,,,,,,
+Suco2014140,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_52,138.6,37.7,40.9,162.9,10.0,,,,,,,,,,
+Suco2014141,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_53,136.0,38.6,35.4,165.2,9.6,,,,,,,,,,
+Suco2014142,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_54,131.3,37.1,35.6,161.2,11.0,,,,,,,,,,
+Suco2014143,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_55,154.6,40.7,37.5,175.3,12.8,,,,,,,,,,
+Suco2014144,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_56_1,117.7,32.7,35.7,143.8,9.7,,,,,,,,,,
+Suco2014145,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_56_10,136.2,36.0,32.0,160.2,12.1,,,,,,,,,,
+Suco2014146,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_56_11,131.1,34.1,35.4,152.3,12.7,,,,,,,,,,
+Suco2014147,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_56_12,134.4,34.0,34.8,152.2,10.4,,,,,,,,,,
+Suco2014148,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_56_13,139.1,39.1,38.0,164.2,9.4,,,,,,,,,,
+Suco2014149,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_56_14,142.0,41.6,38.6,166.9,10.5,,,,,,,,,,
+Suco2014150,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_56_15,125.8,33.0,32.2,178.0,13.8,,,,,,,,,,
+Suco2014151,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_56_16,133.4,35.7,40.3,159.4,10.3,,,,,,,,,,
+Suco2014152,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_56_17,107.3,34.1,40.7,102.7,6.0,,,,,,,,,,
+Suco2014153,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_56_2,135.2,39.3,37.8,168.6,10.8,,,,,,,,,,
+Suco2014154,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_56_3,113.0,30.4,31.2,134.8,9.2,,,,,,,,,,
+Suco2014155,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_56_4,131.1,36.6,35.0,164.8,10.6,,,,,,,,,,
+Suco2014156,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_56_5,126.1,33.5,31.2,133.6,7.4,,,,,,,,,,
+Suco2014157,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_56_6,130.9,35.8,31.2,160.3,12.0,,,,,,,,,,
+Suco2014158,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_56_7,144.3,44.9,38.8,185.4,11.9,,,,,,,,,,
+Suco2014159,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_56_8,142.7,46.8,38.1,173.4,12.9,,,,,,,,,,
+Suco2014160,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_56_9,126.6,36.6,35.9,152.5,10.8,,,,,,,,,,
+Suco2014161,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_1,148.2,40.0,33.4,162.2,13.0,,,,,,,,,,
+Suco2014162,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_10,110.8,36.1,32.1,141.5,11.8,,,,,,,,,,
+Suco2014163,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_11,139.3,36.8,33.9,158.0,12.0,,,,,,,,,,
+Suco2014164,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_12,132.8,40.3,37.8,174.6,12.9,,,,,,,,,,
+Suco2014165,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_13,136.7,34.8,36.0,161.2,12.1,,,,,,,,,,
+Suco2014166,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_14,153.9,43.5,35.6,171.3,10.9,,,,,,,,,,
+Suco2014167,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_15,135.8,43.8,38.4,177.0,11.1,,,,,,,,,,
+Suco2014168,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_16,140.2,42.0,36.5,167.2,13.5,,,,,,,,,,
+Suco2014169,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_17,145.7,41.4,35.9,160.2,13.8,,,,,,,,,,
+Suco2014170,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_18,141.8,37.9,37.2,188.0,12.4,,,,,,,,,,
+Suco2014171,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_19,135.5,41.5,39.4,162.7,11.8,,,,,,,,,,
+Suco2014172,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_2,130.5,37.0,38.4,160.9,11.7,,,,,,,,,,
+Suco2014173,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_20,142.6,41.9,34.0,164.4,13.0,,,,,,,,,,
+Suco2014174,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_21,128.6,37.4,37.2,172.1,9.4,,,,,,,,,,
+Suco2014175,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_22,154.6,36.5,37.5,172.9,13.0,,,,,,,,,,
+Suco2014176,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_23,141.4,43.8,37.3,168.4,10.1,,,,,,,,,,
+Suco2014177,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_24,133.3,36.2,34.4,174.0,12.3,,,,,,,,,,
+Suco2014178,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_25,129.4,34.8,36.9,174.0,11.7,,,,,,,,,,
+Suco2014179,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_26,138.3,34.9,37.6,159.4,12.3,,,,,,,,,,
+Suco2014180,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_27,159.6,39.7,40.7,185.7,16.5,,,,,,,,,,
+Suco2014181,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_28,149.7,39.7,44.2,186.3,13.9,,,,,,,,,,
+Suco2014182,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_29,172.1,41.9,39.9,192.2,11.0,,,,,,,,,,
+Suco2014183,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_3,140.8,36.3,37.8,154.2,9.5,,,,,,,,,,
+Suco2014184,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_30,135.1,38.7,36.7,176.6,10.2,,,,,,,,,,
+Suco2014185,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_31,160.6,38.7,37.5,179.2,11.9,,,,,,,,,,
+Suco2014186,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_33,142.6,36.9,34.9,157.3,12.0,,,,,,,,,,
+Suco2014187,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_34,163.4,37.9,38.1,174.7,14.0,,,,,,,,,,
+Suco2014188,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_35,146.7,37.2,40.2,162.0,11.3,,,,,,,,,,
+Suco2014189,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_36,140.1,39.8,33.4,151.8,9.6,,,,,,,,,,
+Suco2014190,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_37,156.4,43.7,39.2,175.5,13.2,,,,,,,,,,
+Suco2014191,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_38,133.7,39.7,35.1,150.2,12.4,,,,,,,,,,
+Suco2014192,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_39,133.3,40.9,30.9,170.6,11.3,,,,,,,,,,
+Suco2014193,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_4,139.2,34.9,35.9,161.7,12.5,,,,,,,,,,
+Suco2014194,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_40,146.5,40.2,42.7,203.8,14.2,,,,,,,,,,
+Suco2014195,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_41,159.2,45.4,43.7,169.5,11.0,,,,,,,,,,
+Suco2014196,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_42,151.9,39.9,35.3,172.9,13.4,,,,,,,,,,
+Suco2014197,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_43,152.8,44.3,37.2,173.3,14.3,,,,,,,,,,
+Suco2014198,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_44,154.2,43.2,37.6,187.8,14.4,,,,,,,,,,
+Suco2014199,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_45,155.7,36.0,38.6,163.6,11.9,,,,,,,,,,
+Suco2014200,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_46,157.6,40.3,38.8,182.7,14.1,,,,,,,,,,
+Suco2014201,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_47,126.6,34.0,33.6,149.6,11.3,,,,,,,,,,
+Suco2014202,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_48,163.2,38.8,41.5,190.9,12.8,,,,,,,,,,
+Suco2014203,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_49,139.0,34.9,33.2,153.1,12.0,,,,,,,,,,
+Suco2014204,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_5,115.8,30.0,31.7,143.6,14.2,,,,,,,,,,
+Suco2014205,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_50,140.3,35.8,35.8,151.7,12.8,,,,,,,,,,
+Suco2014206,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_51,153.1,44.8,35.9,177.2,11.2,,,,,,,,,,
+Suco2014207,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_52,163.3,39.9,40.8,159.4,8.8,,,,,,,,,,
+Suco2014208,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_53,180.9,39.7,45.2,187.3,9.6,,,,,,,,,,
+Suco2014209,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_54,159.1,38.7,42.1,181.4,10.5,,,,,,,,,,
+Suco2014210,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_55,148.9,36.6,36.3,169.8,10.9,,,,,,,,,,
+Suco2014211,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_56,148.0,37.6,39.4,170.9,11.3,,,,,,,,,,
+Suco2014212,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_57,139.4,42.5,36.5,157.4,11.8,,,,,,,,,,
+Suco2014213,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_58,152.9,42.2,35.6,182.2,12.5,,,,,,,,,,
+Suco2014214,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_59,135.8,38.1,35.4,153.5,11.1,,,,,,,,,,
+Suco2014215,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_6,131.7,36.4,35.9,170.5,12.3,,,,,,,,,,
+Suco2014216,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_60,167.8,37.4,40.3,181.2,11.3,,,,,,,,,,
+Suco2014217,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_62,126.0,35.8,39.4,148.2,11.2,,,,,,,,,,
+Suco2014218,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_63,156.4,40.5,37.6,167.9,10.2,,,,,,,,,,
+Suco2014219,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_64,178.0,44.4,40.3,184.7,10.2,,,,,,,,,,
+Suco2014220,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_65,153.2,46.2,37.4,181.2,11.6,,,,,,,,,,
+Suco2014221,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_66,171.8,44.8,46.5,175.9,11.9,,,,,,,,,,
+Suco2014222,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_67,157.0,41.9,42.3,178.0,15.1,,,,,,,,,,
+Suco2014223,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_68,153.0,38.6,38.3,168.4,10.9,,,,,,,,,,
+Suco2014224,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_69,146.9,39.6,37.7,161.5,9.9,,,,,,,,,,
+Suco2014225,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_7,142.4,36.8,39.6,169.7,12.0,,,,,,,,,,
+Suco2014226,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_70,161.5,44.9,41.0,191.0,12.2,,,,,,,,,,
+Suco2014227,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_71,172.7,41.0,35.5,191.3,13.1,,,,,,,,,,
+Suco2014228,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_72,188.3,54.7,38.0,194.8,11.3,,,,,,,,,,
+Suco2014229,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_73,164.9,47.9,46.2,180.6,13.5,,,,,,,,,,
+Suco2014230,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_74,150.2,41.5,42.3,167.3,12.6,,,,,,,,,,
+Suco2014231,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_75,98.7,32.9,29.0,78.9,7.6,,,,,,,,,,
+Suco2014232,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_76,111.0,33.8,35.4,130.6,10.9,,,,,,,,,,
+Suco2014233,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_77,104.3,36.3,38.4,98.3,10.0,,,,,,,,,,
+Suco2014234,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_8,133.8,40.8,40.4,160.3,11.7,,,,,,,,,,
+Suco2014235,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_57_9,139.7,38.6,37.7,176.4,11.5,,,,,,,,,,
+Suco2014236,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_1,104.2,28.8,30.3,134.6,11.5,,,,,,,,,,
+Suco2014237,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_10,145.0,40.3,32.9,184.9,10.6,,,,,,,,,,
+Suco2014238,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_100,166.1,41.5,45.9,182.6,11.6,,,,,,,,,,
+Suco2014239,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_101,185.7,49.6,42.6,188.5,13.8,,,,,,,,,,
+Suco2014240,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_102,147.4,42.5,40.5,177.8,11.1,,,,,,,,,,
+Suco2014241,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_103,158.6,42.6,39.5,170.2,14.5,,,,,,,,,,
+Suco2014242,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_104,156.0,43.0,43.9,167.3,13.4,,,,,,,,,,
+Suco2014243,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_105,123.0,31.3,39.5,160.8,8.5,,,,,,,,,,
+Suco2014244,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_106,135.5,37.7,37.1,159.5,13.4,,,,,,,,,,
+Suco2014245,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_107,140.8,34.9,38.7,161.5,11.7,,,,,,,,,,
+Suco2014246,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_108,134.8,37.4,39.6,168.9,12.7,,,,,,,,,,
+Suco2014247,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_109,151.7,42.9,38.2,182.3,14.8,,,,,,,,,,
+Suco2014248,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_11,140.8,44.4,33.7,162.8,11.4,,,,,,,,,,
+Suco2014249,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_110,135.7,35.2,40.7,186.4,10.8,,,,,,,,,,
+Suco2014250,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_111,164.4,46.5,39.2,170.3,11.3,,,,,,,,,,
+Suco2014251,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_112,151.9,39.5,43.3,163.1,9.6,,,,,,,,,,
+Suco2014252,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_113,187.9,44.9,45.7,184.6,11.8,,,,,,,,,,
+Suco2014253,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_115,158.2,40.2,38.7,166.5,14.7,,,,,,,,,,
+Suco2014254,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_116,158.9,44.2,38.0,173.1,11.6,,,,,,,,,,
+Suco2014255,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_117,141.9,36.7,34.5,148.4,12.2,,,,,,,,,,
+Suco2014256,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_118,190.9,51.3,46.8,181.8,12.9,,,,,,,,,,
+Suco2014257,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_119,131.5,38.6,41.2,158.7,11.9,,,,,,,,,,
+Suco2014258,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_12,132.0,33.6,30.7,160.7,12.6,,,,,,,,,,
+Suco2014259,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_120,149.2,38.8,36.1,152.0,10.0,,,,,,,,,,
+Suco2014260,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_121,129.6,36.2,41.6,152.7,8.3,,,,,,,,,,
+Suco2014261,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_122,140.8,39.4,34.3,143.9,6.6,,,,,,,,,,
+Suco2014262,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_123,134.9,40.1,39.0,130.9,13.9,,,,,,,,,,
+Suco2014263,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_13,141.0,41.5,35.7,163.6,14.1,,,,,,,,,,
+Suco2014264,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_14,142.3,42.1,38.6,165.0,12.2,,,,,,,,,,
+Suco2014265,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_15,141.4,38.8,35.8,167.0,11.6,,,,,,,,,,
+Suco2014266,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_16,151.3,36.7,42.7,176.2,10.8,,,,,,,,,,
+Suco2014267,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_17,143.8,37.7,38.2,178.2,12.7,,,,,,,,,,
+Suco2014268,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_18,132.8,34.8,36.0,170.6,13.1,,,,,,,,,,
+Suco2014269,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_19,136.0,37.8,37.0,165.4,12.3,,,,,,,,,,
+Suco2014270,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_2,135.9,38.4,40.4,163.5,8.8,,,,,,,,,,
+Suco2014271,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_20,124.3,34.9,33.4,147.4,9.2,,,,,,,,,,
+Suco2014272,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_21,135.9,35.3,31.5,179.9,11.5,,,,,,,,,,
+Suco2014273,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_22,151.8,36.5,36.8,166.6,10.5,,,,,,,,,,
+Suco2014274,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_23,153.0,41.4,38.2,183.7,10.4,,,,,,,,,,
+Suco2014275,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_24,134.4,31.5,31.3,148.8,11.9,,,,,,,,,,
+Suco2014276,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_25,141.0,35.9,36.8,185.0,11.2,,,,,,,,,,
+Suco2014277,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_26,136.9,36.3,32.3,151.6,12.4,,,,,,,,,,
+Suco2014278,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_27,142.9,36.4,32.0,168.7,12.9,,,,,,,,,,
+Suco2014279,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_28,139.0,37.0,33.1,172.4,13.1,,,,,,,,,,
+Suco2014280,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_29,141.8,40.3,32.5,161.8,12.1,,,,,,,,,,
+Suco2014281,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_3,119.2,32.3,33.7,141.4,9.2,,,,,,,,,,
+Suco2014282,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_30,131.5,35.0,33.9,146.2,9.5,,,,,,,,,,
+Suco2014283,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_31,141.6,34.2,33.4,170.4,12.0,,,,,,,,,,
+Suco2014284,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_32,137.2,34.6,32.3,167.2,11.0,,,,,,,,,,
+Suco2014285,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_33,124.7,35.7,35.7,157.5,10.9,,,,,,,,,,
+Suco2014286,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_34,152.2,43.7,37.5,169.7,15.2,,,,,,,,,,
+Suco2014287,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_35,141.2,41.2,35.8,159.0,12.5,,,,,,,,,,
+Suco2014288,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_36,131.5,39.5,37.5,166.7,10.8,,,,,,,,,,
+Suco2014289,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_37,138.2,37.2,35.7,149.1,14.6,,,,,,,,,,
+Suco2014290,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_38,119.0,38.2,36.9,158.4,12.2,,,,,,,,,,
+Suco2014291,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_39,135.2,34.8,34.8,150.0,11.3,,,,,,,,,,
+Suco2014292,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_4,116.2,41.3,32.4,154.2,9.2,,,,,,,,,,
+Suco2014293,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_40,148.4,41.5,40.9,172.6,8.3,,,,,,,,,,
+Suco2014294,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_41,136.5,34.2,33.6,151.6,11.0,,,,,,,,,,
+Suco2014295,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_42,135.0,35.7,34.7,166.4,13.5,,,,,,,,,,
+Suco2014296,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_43,145.4,42.4,33.5,189.8,14.6,,,,,,,,,,
+Suco2014297,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_44,141.2,40.5,37.6,170.6,7.4,,,,,,,,,,
+Suco2014298,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_45,140.3,34.6,37.1,170.0,11.4,,,,,,,,,,
+Suco2014299,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_46,136.2,37.8,42.3,162.4,10.8,,,,,,,,,,
+Suco2014300,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_47,118.1,32.5,31.5,161.6,12.5,,,,,,,,,,
+Suco2014301,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_48,152.4,36.2,33.8,165.5,9.2,,,,,,,,,,
+Suco2014302,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_49,147.4,43.5,41.8,161.2,10.4,,,,,,,,,,
+Suco2014303,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_5,125.3,35.2,34.9,153.3,10.4,,,,,,,,,,
+Suco2014304,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_50,143.8,39.6,36.5,173.2,12.4,,,,,,,,,,
+Suco2014305,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_51,141.8,36.9,41.0,167.9,11.5,,,,,,,,,,
+Suco2014306,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_52,147.7,37.3,39.4,168.0,10.9,,,,,,,,,,
+Suco2014307,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_53,136.0,38.5,39.5,164.7,13.8,,,,,,,,,,
+Suco2014308,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_54,133.5,42.2,36.4,165.2,10.5,,,,,,,,,,
+Suco2014309,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_55,152.6,40.2,42.3,166.7,9.8,,,,,,,,,,
+Suco2014310,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_56,136.3,39.5,34.8,156.8,11.4,,,,,,,,,,
+Suco2014311,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_57,136.0,37.8,36.7,170.4,14.2,,,,,,,,,,
+Suco2014312,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_58,150.5,41.3,35.8,177.2,13.3,,,,,,,,,,
+Suco2014313,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_59,129.6,39.2,34.8,156.4,12.7,,,,,,,,,,
+Suco2014314,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_6,149.7,38.4,33.9,175.5,14.8,,,,,,,,,,
+Suco2014315,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_60,151.6,41.2,38.2,171.2,11.9,,,,,,,,,,
+Suco2014316,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_61,157.1,40.0,44.2,173.4,11.7,,,,,,,,,,
+Suco2014317,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_62,136.8,38.8,39.2,166.1,9.1,,,,,,,,,,
+Suco2014318,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_63,149.5,37.0,38.9,169.0,12.9,,,,,,,,,,
+Suco2014319,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_64,143.2,35.9,40.8,159.2,11.8,,,,,,,,,,
+Suco2014320,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_65,151.5,39.7,33.4,179.5,12.1,,,,,,,,,,
+Suco2014321,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_66,143.8,37.6,33.5,173.9,11.2,,,,,,,,,,
+Suco2014322,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_67,160.3,42.2,37.9,160.8,13.5,,,,,,,,,,
+Suco2014323,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_68,133.5,36.3,35.7,165.8,10.8,,,,,,,,,,
+Suco2014324,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_69,147.0,39.9,32.5,156.9,9.4,,,,,,,,,,
+Suco2014325,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_7,118.0,32.9,33.4,153.0,10.8,,,,,,,,,,
+Suco2014326,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_70,167.0,39.7,41.8,185.4,13.9,,,,,,,,,,
+Suco2014327,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_71,158.8,39.2,35.4,177.8,12.0,,,,,,,,,,
+Suco2014328,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_72,142.5,39.9,34.2,160.9,11.5,,,,,,,,,,
+Suco2014329,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_73,148.6,36.9,34.8,174.7,9.3,,,,,,,,,,
+Suco2014330,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_74,142.5,45.9,38.0,179.8,11.0,,,,,,,,,,
+Suco2014331,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_75,147.6,40.1,34.9,161.8,11.0,,,,,,,,,,
+Suco2014332,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_76,139.7,38.1,38.8,160.4,11.0,,,,,,,,,,
+Suco2014333,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_77,142.8,41.9,36.7,170.2,10.5,,,,,,,,,,
+Suco2014334,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_78,167.6,45.4,37.5,173.6,13.0,,,,,,,,,,
+Suco2014335,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_79,131.2,34.2,35.2,154.5,12.3,,,,,,,,,,
+Suco2014336,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_8,139.9,36.0,35.6,158.6,12.0,,,,,,,,,,
+Suco2014337,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_80,137.5,37.7,34.3,152.3,10.1,,,,,,,,,,
+Suco2014338,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_81,153.5,40.6,40.6,174.8,10.3,,,,,,,,,,
+Suco2014339,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_82,148.7,39.6,41.3,171.2,10.0,,,,,,,,,,
+Suco2014340,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_83,145.8,36.5,36.8,217.1,11.8,,,,,,,,,,
+Suco2014341,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_84,165.4,43.5,43.9,201.9,12.8,,,,,,,,,,
+Suco2014342,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_85,137.6,43.9,36.6,171.5,12.2,,,,,,,,,,
+Suco2014343,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_86,146.7,39.1,38.6,205.7,9.4,,,,,,,,,,
+Suco2014344,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_87,130.4,32.3,37.7,162.6,11.9,,,,,,,,,,
+Suco2014345,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_88,149.0,46.1,38.9,188.2,11.3,,,,,,,,,,
+Suco2014346,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_9,145.4,37.8,36.0,151.5,12.1,,,,,,,,,,
+Suco2014347,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_90,146.6,37.1,40.9,157.2,11.1,,,,,,,,,,
+Suco2014348,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_91,140.4,40.8,40.8,150.9,11.5,,,,,,,,,,
+Suco2014349,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_92,157.4,44.8,39.1,165.9,10.9,,,,,,,,,,
+Suco2014350,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_93,145.6,39.3,34.7,153.9,9.9,,,,,,,,,,
+Suco2014351,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_94,146.4,41.9,40.7,157.7,12.4,,,,,,,,,,
+Suco2014352,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_95,147.1,42.7,39.8,162.6,11.7,,,,,,,,,,
+Suco2014353,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_96,127.8,38.1,32.9,147.9,10.7,,,,,,,,,,
+Suco2014354,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_98,156.2,43.0,35.8,188.1,11.6,,,,,,,,,,
+Suco2014355,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_59_99,131.3,32.7,36.3,159.1,11.5,,,,,,,,,,
+Suco2014356,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_6,140.3,37.1,42.0,194.0,12.0,,,,,,,,,,
+Suco2014357,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_60,107.6,30.0,32.1,143.3,10.8,,,,,,,,,,
+Suco2014358,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_7,169.1,40.7,43.6,183.5,13.0,,,,,,,,,,
+Suco2014359,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_8,153.5,39.1,37.2,178.2,12.8,,,,,,,,,,
+Suco2014360,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_21_9,158.4,43.5,38.6,164.3,10.6,,,,,,,,,,
+Suco2014361,Helena Bay,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,HB_FS_22,103.1,27.9,30.7,120.4,8.5,,,,,,,,,,
+Suco2014362,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,AR 4020b,128.6,35.2,35.0,155.7,11.9,,,,,,,,,,
+Suco2014363,Bream Head,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,BH_FS_1_1,123.6,9.1,101.5,1079.3,83.7,,,,,,,,,,
+Suco2014364,Bream Head,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,BH_FS_11_1,151.2,12.1,101.0,1078.3,81.5,,,,,,,,,,
+Suco2014365,Bream Head,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,BH_FS_23_2,135.2,9.4,107.7,1149.5,82.1,,,,,,,,,,
+Suco2014366,Bream Head,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,BH_FS_3_1,139.8,6.5,118.1,1280.7,95.2,,,,,,,,,,
+Suco2014367,Bream Head,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,BH_FS_30_1,149.2,8.9,113.8,1211.9,89.0,,,,,,,,,,
+Suco2014368,Bream Head,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,BH_FS_31_1,154.7,7.5,127.7,1398.3,106.1,,,,,,,,,,
+Suco2014369,Bream Head,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,BH_FS_31_2,156.5,7.9,127.2,1330.8,92.0,,,,,,,,,,
+Suco2014370,Bream Head,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,BH_FS_31_3,170.5,8.1,136.4,1332.2,104.7,,,,,,,,,,
+Suco2014371,Bream Head,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,BH_FS_32_2,123.5,9.2,113.0,1199.9,94.3,,,,,,,,,,
+Suco2014372,Bream Head,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,BH_FS_33_1,151.8,8.6,101.0,1141.4,87.2,,,,,,,,,,
+Suco2014373,Bream Head,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,BH_FS_4_1,141.0,9.4,122.7,1318.5,96.7,,,,,,,,,,
+Suco2014374,Bream Head,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,BH_FS_4_2,142.3,8.3,118.1,1379.1,107.9,,,,,,,,,,
+Suco2014375,Bream Head,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,BH_FS_8_1,123.2,9.0,108.6,1081.5,71.7,,,,,,,,,,
+Suco2014376,Bream Head,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,BH_FS_82_1,133.4,9.4,106.4,1180.4,92.5,,,,,,,,,,
+Suco2014377,Bream Head,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,BH_FS_9_1,140.3,6.5,102.1,1136.5,86.9,,,,,,,,,,
+Suco2014378,Mt Wellington,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,AR3977,137.7,7.4,103.2,1130.6,86.1,,,,,,,,,,
+Suco2014379,Mt Wellington,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,AR3978,140.4,7.9,110.5,1174.7,84.2,,,,,,,,,,
+Suco2014380,Mt Wellington,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,AR3986,139.1,6.8,107.9,1133.8,91.5,,,,,,,,,,
+Suco2014381,Mt Wellington,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,AR3999,151.3,9.0,117.7,1387.8,107.3,,,,,,,,,,
+Suco2014382,Mt Wellington,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,AR4002,136.9,9.2,118.6,1309.1,97.2,,,,,,,,,,
+Suco2014383,Mt Wellington,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,AR4003,141.2,6.6,121.4,1309.6,100.7,,,,,,,,,,
+Suco2014384,Mt Wellington,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,AR4007,148.2,6.6,114.5,1193.5,87.6,,,,,,,,,,
+Suco2014385,Mt Wellington,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,AR4008,137.3,8.2,112.3,1183.9,84.8,,,,,,,,,,
+Suco2014386,Mt Wellington,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,AR4018b,148.3,9.2,105.5,1184.2,89.9,,,,,,,,,,
+Suco2014387,Mt Wellington,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,AR4019,137.5,8.5,113.4,1185.3,82.1,,,,,,,,,,
+Suco2014388,Mt Wellington,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,MW002b,134.6,8.8,103.9,1123.0,86.0,,,,,,,,,,
+Suco2014389,Mt Wellington,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,MW008b,123.5,9.8,102.0,1139.4,84.6,,,,,,,,,,
+Suco2014390,Mt Wellington,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,MW024a,154.7,9.4,133.8,1416.7,104.0,,,,,,,,,,
+Suco2014391,Mt Wellington,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,MW024b,138.6,9.8,136.8,1316.1,100.3,,,,,,,,,,
+Suco2014392,Mt Wellington,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,MW024c,148.3,9.8,130.1,1362.2,100.3,,,,,,,,,,
+Suco2014393,Mt Wellington,Green filter 40kv 8ma,Artefact,TVZ,Rotorua,AR 4010,120.7,66.2,28.0,134.6,9.4,,,,,,,,,,
+Suco2014394,Bream Head,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,BH_FS_10_1,202.2,23.9,40.2,135.0,7.8,,,,,,,,,,
+Suco2014395,Bream Head,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,BH_FS_23_4,193.0,25.9,39.8,132.3,9.0,,,,,,,,,,
+Suco2014396,Bream Head,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,BH_FS_29_1,194.4,33.6,33.3,140.8,7.9,,,,,,,,,,
+Suco2014397,Bream Head,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,BH_FS_32_1,193.0,28.4,39.5,139.1,9.0,,,,,,,,,,
+Suco2014398,Bream Head,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,BH_FS_32_3,193.2,22.6,36.9,130.1,5.5,,,,,,,,,,
+Suco2014399,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 3976,183.3,25.4,34.4,131.4,11.4,,,,,,,,,,
+Suco2014400,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 3979,181.1,23.0,35.7,125.7,10.1,,,,,,,,,,
+Suco2014401,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 3980a,199.8,26.6,36.0,147.0,9.4,,,,,,,,,,
+Suco2014402,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 3984,186.5,27.1,37.8,137.2,10.7,,,,,,,,,,
+Suco2014403,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 3985,200.2,32.0,29.6,137.8,11.2,,,,,,,,,,
+Suco2014404,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 3987,185.6,24.4,39.1,135.2,10.5,,,,,,,,,,
+Suco2014405,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 3990,187.7,23.9,31.5,129.2,9.8,,,,,,,,,,
+Suco2014406,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 3994,179.8,33.2,35.8,135.8,8.2,,,,,,,,,,
+Suco2014407,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 3995,212.5,26.0,30.9,144.6,9.7,,,,,,,,,,
+Suco2014408,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 3997,201.9,28.1,33.1,130.9,9.4,,,,,,,,,,
+Suco2014409,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4000,195.9,25.6,38.6,145.9,9.1,,,,,,,,,,
+Suco2014410,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4001a,196.3,32.6,36.5,142.1,10.6,,,,,,,,,,
+Suco2014411,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4012,197.1,28.8,32.6,142.0,8.8,,,,,,,,,,
+Suco2014412,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4013,195.2,26.8,40.3,132.7,9.6,,,,,,,,,,
+Suco2014413,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4015a,196.4,31.6,38.6,137.2,11.1,,,,,,,,,,
+Suco2014414,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4015b,199.3,23.5,36.6,138.5,10.3,,,,,,,,,,
+Suco2014415,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4016a,206.3,28.5,37.6,141.0,10.7,,,,,,,,,,
+Suco2014416,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4016b,231.9,28.7,37.1,139.4,10.4,,,,,,,,,,
+Suco2014417,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4016c,201.7,26.9,34.7,144.5,7.3,,,,,,,,,,
+Suco2014418,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4016d,190.5,25.4,37.4,130.6,7.7,,,,,,,,,,
+Suco2014419,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4016e,184.0,25.6,34.8,130.9,10.9,,,,,,,,,,
+Suco2014420,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4017a,195.8,25.5,34.5,142.1,8.9,,,,,,,,,,
+Suco2014421,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4017b,197.9,24.8,36.8,139.5,12.5,,,,,,,,,,
+Suco2014422,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4017d,191.1,25.5,38.0,135.0,9.0,,,,,,,,,,
+Suco2014423,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4017e,209.5,26.5,34.9,139.5,7.8,,,,,,,,,,
+Suco2014424,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4017h,208.2,27.4,35.8,138.1,9.7,,,,,,,,,,
+Suco2014425,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4018a,200.6,29.2,39.0,136.8,11.4,,,,,,,,,,
+Suco2014426,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4020a,199.0,35.2,31.6,152.1,12.3,,,,,,,,,,
+Suco2014427,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4021a,208.2,28.4,37.6,134.8,7.1,,,,,,,,,,
+Suco2014428,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4021b,208.5,25.5,37.2,140.9,10.5,,,,,,,,,,
+Suco2014429,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4022a,205.5,35.5,37.7,144.8,9.2,,,,,,,,,,
+Suco2014430,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4024,211.9,29.2,35.0,137.8,13.6,,,,,,,,,,
+Suco2014431,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4025a,190.6,25.1,35.8,130.3,10.3,,,,,,,,,,
+Suco2014432,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4025c,213.5,24.8,35.6,137.7,11.4,,,,,,,,,,
+Suco2014433,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4025d,195.0,28.0,37.1,138.6,9.8,,,,,,,,,,
+Suco2014434,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4025g,193.7,22.4,32.0,130.3,6.6,,,,,,,,,,
+Suco2014435,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4025h,191.4,31.0,29.6,136.8,9.4,,,,,,,,,,
+Suco2014436,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4026a,189.7,26.2,36.2,135.4,8.5,,,,,,,,,,
+Suco2014437,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4027a,189.1,25.4,33.2,134.6,10.3,,,,,,,,,,
+Suco2014438,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4028a,209.8,26.5,36.0,136.8,10.8,,,,,,,,,,
+Suco2014439,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4028b,180.7,29.6,33.4,133.8,7.4,,,,,,,,,,
+Suco2014440,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4028c,200.4,36.5,33.6,135.7,7.7,,,,,,,,,,
+Suco2014441,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4028d,191.2,33.8,32.3,143.2,9.2,,,,,,,,,,
+Suco2014442,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4028e,211.7,29.5,38.8,140.4,9.8,,,,,,,,,,
+Suco2014443,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4029a,224.1,25.4,36.4,144.0,10.0,,,,,,,,,,
+Suco2014444,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4029b,200.4,30.9,28.6,133.8,11.1,,,,,,,,,,
+Suco2014445,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4029c,184.4,25.4,39.8,130.4,7.8,,,,,,,,,,
+Suco2014446,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4030a,210.2,34.0,31.0,141.8,7.9,,,,,,,,,,
+Suco2014447,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4030c,187.4,23.3,35.3,142.3,7.6,,,,,,,,,,
+Suco2014448,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4030f,210.8,28.3,36.9,139.7,8.9,,,,,,,,,,
+Suco2014449,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4030h,190.8,26.4,37.0,133.2,9.1,,,,,,,,,,
+Suco2014450,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4030i,195.7,30.3,31.7,137.7,7.7,,,,,,,,,,
+Suco2014451,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4031a,196.7,24.9,31.7,124.9,8.1,,,,,,,,,,
+Suco2014452,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4031b,189.2,25.2,35.7,127.0,10.8,,,,,,,,,,
+Suco2014453,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4032a,193.0,24.5,34.3,132.2,11.4,,,,,,,,,,
+Suco2014454,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4032b,184.1,22.9,35.3,130.0,8.6,,,,,,,,,,
+Suco2014455,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4032c,206.3,24.9,39.2,143.9,11.4,,,,,,,,,,
+Suco2014456,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4033a,194.5,23.7,36.2,135.4,6.8,,,,,,,,,,
+Suco2014457,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4033b,186.5,23.9,33.8,132.9,12.0,,,,,,,,,,
+Suco2014458,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4033c,244.0,30.1,39.6,152.4,13.8,,,,,,,,,,
+Suco2014459,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4033d,205.7,27.6,40.3,129.9,7.7,,,,,,,,,,
+Suco2014460,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4033e,204.1,27.6,37.2,147.7,8.1,,,,,,,,,,
+Suco2014461,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4033f,211.0,37.1,36.3,145.5,9.8,,,,,,,,,,
+Suco2014462,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4041a,208.2,28.0,38.7,140.8,11.1,,,,,,,,,,
+Suco2014463,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4041b,212.5,28.8,39.8,138.2,10.7,,,,,,,,,,
+Suco2014464,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4041c,201.6,26.1,40.5,142.2,7.6,,,,,,,,,,
+Suco2014465,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4041d,227.9,28.6,37.5,143.3,9.3,,,,,,,,,,
+Suco2014466,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4044a,187.0,25.3,38.2,129.5,8.2,,,,,,,,,,
+Suco2014467,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4044b,180.0,20.3,30.9,124.2,7.6,,,,,,,,,,
+Suco2014468,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4045,206.8,28.6,32.1,140.8,8.5,,,,,,,,,,
+Suco2014469,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4048,204.5,29.3,35.2,134.1,10.9,,,,,,,,,,
+Suco2014470,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,AR 4050a,200.2,33.0,33.6,146.4,10.4,,,,,,,,,,
+Suco2014471,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,MW 0007b,191.8,25.1,35.6,132.0,9.1,,,,,,,,,,
+Suco2014472,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,MW 001,187.0,32.1,32.8,138.3,11.2,,,,,,,,,,
+Suco2014473,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,MW 002a,192.9,23.8,34.5,133.5,9.2,,,,,,,,,,
+Suco2014474,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,MW 004,180.4,23.5,36.3,131.1,5.6,,,,,,,,,,
+Suco2014475,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,MW 005,199.8,26.3,39.1,149.6,9.0,,,,,,,,,,
+Suco2014476,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,MW 006,194.7,30.5,38.1,131.7,10.8,,,,,,,,,,
+Suco2014477,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,MW 007a,180.3,22.6,31.0,130.6,10.7,,,,,,,,,,
+Suco2014478,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,MW 007c,206.7,28.8,36.7,136.5,8.1,,,,,,,,,,
+Suco2014479,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,MW 008a,203.8,34.1,36.7,152.6,11.5,,,,,,,,,,
+Suco2014480,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,MW 008c,195.1,27.0,34.2,133.7,9.0,,,,,,,,,,
+Suco2014481,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,MW 009,223.7,30.2,31.6,136.0,8.2,,,,,,,,,,
+Suco2014482,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,MW 010,193.8,23.0,35.9,137.0,8.3,,,,,,,,,,
+Suco2014483,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,MW 012,220.3,26.2,38.5,138.9,6.2,,,,,,,,,,
+Suco2014484,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,MW 014c,210.4,31.6,34.8,141.5,8.4,,,,,,,,,,
+Suco2014485,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,MW 014f,193.1,29.2,40.7,142.9,9.4,,,,,,,,,,
+Suco2014486,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,MW 014g,194.7,32.2,31.3,143.2,8.5,,,,,,,,,,
+Suco2014487,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,MW 014p,195.4,33.4,29.9,137.5,9.8,,,,,,,,,,
+Suco2014488,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,MW 015,189.7,26.2,34.5,127.3,11.2,,,,,,,,,,
+Suco2014489,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,MW 016,198.8,27.5,39.4,140.7,8.5,,,,,,,,,,
+Suco2014490,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,MW 019,218.2,28.2,30.2,137.7,7.8,,,,,,,,,,
+Suco2014491,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,MW 021,187.0,24.4,35.4,128.7,8.3,,,,,,,,,,
+Suco2014492,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,MW 025,212.5,26.1,35.8,139.6,11.3,,,,,,,,,,
+Suco2014493,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,MW 027,209.1,33.4,36.6,153.1,9.9,,,,,,,,,,
+Suco2014494,Mt Wellington,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,MW 029,204.7,35.1,30.8,140.5,6.5,,,,,,,,,,
+Suco2014495,Pouerua,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,NAP11_26,147.0,9.6,106.9,1174.6,90.3,,,,,,,,,,N15/5;Area_I;<40mm²;Art#538;16_I_84
+Suco2014496,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_27,714.5,6.2,187.9,2158.0,282.8,,,,,,,,,,N15/5;<10mm²;Area_I;Art#653;14_I_84
+Suco2014497,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_28,570.5,8.8,171.9,1880.5,251.6,,,,,,,,,,N15/5;<10mm²;Area_I;Art#62;9_I_84
+Suco2014498,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_29,663.8,8.8,202.9,2204.2,280.7,,,,,,,,,,N15/5;<10mm²;Area_I;Art#18;9_I_84
+Suco2014499,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_30,706.2,8.6,210.2,2355.9,299.0,,,,,,,,,,N15/5;<10mm²;Area_I;Art#10;9_I_84
+Suco2014500,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_31,687.0,10.3,195.9,2183.4,273.1,,,,,,,,,,N15/5;<10mm²;Area_I;Art#34;9_I_84
+Suco2014501,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_32,601.2,11.2,131.5,1721.2,211.4,,,,,,,,,,N15/5;<10mm²;Area_I;Art#57;9_I_84
+Suco2014502,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_33,568.2,8.2,145.2,1679.5,206.6,,,,,,,,,,N15/5;<10mm²;Area_I;Art#59;9_I_84
+Suco2014503,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_34,571.3,9.9,136.7,1537.3,202.4,,,,,,,,,,N15/5;<10mm²;Area_I;Art#58;9_I_84
+Suco2014504,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_35,657.4,8.2,198.6,2286.5,303.9,,,,,,,,,,N15/5;<10mm²;Area_I;Art#60;9_I_84
+Suco2014505,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_36,568.7,13.4,143.3,1616.0,220.1,,,,,,,,,,N15/5;<10mm²;Area_I;Art#61;9_I_84
+Suco2014506,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_37,705.3,7.5,188.8,2279.4,296.5,,,,,,,,,,N15/5;<10mm²;Area_I;Art#196;10_I_84
+Suco2014507,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_38,675.9,10.4,194.7,2290.5,308.5,,,,,,,,,,N15/5;<10mm²;Area_I;Art#226;10_I_84
+Suco2014508,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_39,681.5,7.3,211.1,2407.6,330.4,,,,,,,,,,N15/5;<10mm²;Area_I;Art#261;10_I_84
+Suco2014509,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_40,679.9,6.4,216.8,2385.7,313.9,,,,,,,,,,N15/5;<10mm²;Area_I;Art#282;11_I_84
+Suco2014510,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_42,674.7,11.1,207.9,2351.1,312.1,,,,,,,,,,N15/5;<10mm²;Area_I;Art#43;9_I_84
+Suco2014511,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_43,725.3,9.3,223.2,2484.3,314.2,,,,,,,,,,N15/5;<10mm²;Area_I;Art#550;16_I_84
+Suco2014512,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_44,745.2,11.1,214.7,2444.4,321.5,,,,,,,,,,N15/5;<10mm²;Area_I;Art#1003;29_I_84
+Suco2014513,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_45,753.6,7.4,209.3,2383.7,325.7,,,,,,,,,,N15/5;<10mm²;Area_I;Art#646;17_I_84
+Suco2014514,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_46,663.0,8.9,211.3,2295.5,307.5,,,,,,,,,,N15/5;<10mm²;Area_I;Art#659;17_I_84
+Suco2014515,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_47,780.6,11.8,241.7,2560.6,325.4,,,,,,,,,,N15/5;<10mm²;Area_I;Art#658;17_I_84
+Suco2014516,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_49,683.1,9.8,205.4,2217.6,293.1,,,,,,,,,,N15/5;<10mm²;Area_I;Art#654;17_I_84
+Suco2014517,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_50,742.6,8.2,231.8,2537.1,361.2,,,,,,,,,,N15/5;<10mm²;Area_I;Art#652;17_I_84
+Suco2014518,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_51,620.6,9.7,170.8,1936.7,249.0,,,,,,,,,,N15/5;<10mm²;Area_I;Art#649;17_I_84
+Suco2014519,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_52,705.2,8.7,188.1,2166.3,287.5,,,,,,,,,,N15/5;<10mm²;Area_I;Art#643;17_I_84
+Suco2014520,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_53,707.3,10.0,206.4,2336.2,312.2,,,,,,,,,,N15/5;<10mm²;Area_I;Art#641;17_I_84
+Suco2014521,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_54,681.6,10.3,226.3,2372.2,313.3,,,,,,,,,,N15/5;<10mm²;Area_I;Art#635;17_I_84
+Suco2014522,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_55,682.2,9.1,153.5,1902.0,243.5,,,,,,,,,,N15/5;<10mm²;Area_I;Art#624;17_I_84
+Suco2014523,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_56,725.5,8.0,223.5,2494.3,324.1,,,,,,,,,,N15/5;<10mm²;Area_I;Art#599;17_I_84
+Suco2014524,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_57,747.5,9.9,219.1,2442.7,307.4,,,,,,,,,,N15/5;<10mm²;Area_I;Art#530;16_I_84
+Suco2014525,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_58,690.4,11.6,224.7,2450.4,334.7,,,,,,,,,,N15/5;<10mm²;Area_I;Art#534;16_I_84
+Suco2014526,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_59,720.8,7.9,227.9,2357.6,301.2,,,,,,,,,,N15/5;<10mm²;Area_I;Art#512;16_I_84
+Suco2014527,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_60,751.5,7.3,222.2,2453.6,312.6,,,,,,,,,,N15/5;<10mm²;Area_I;Art#436;12_I_84
+Suco2014528,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_61,648.0,12.5,215.8,2405.4,319.7,,,,,,,,,,N15/5;<10mm²;Area_I;Art#421;12_I_84
+Suco2014529,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_62,660.7,7.6,190.5,2019.9,252.4,,,,,,,,,,N15/5;<10mm²;Area_I;Art#412;12_I_84
+Suco2014530,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_63,791.9,8.7,211.9,2571.3,322.4,,,,,,,,,,N15/5;<10mm²;Area_I;Art#354;12_I_84
+Suco2014531,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_64,609.7,7.5,193.4,2195.5,314.0,,,,,,,,,,N15/5;<20mm²;Area_I;SLB_I;Art#914;25_I_84
+Suco2014532,Pouerua,Green filter 40kv 8ma,Artefact,CVZ-N,Te Ahumata,NAP11_65,204.4,27.6,36.1,137.1,9.0,,,,,,,,,,N15/5;<20mm²;Area_I;Te_Ahumata;Art#38;9_I_84
+Suco2014533,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_66,618.1,8.6,192.5,2227.1,297.6,,,,,,,,,,N15/5;<40mm²;Area_I;SLB_I;Art#1000;26_I_84
+Suco2014534,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_67,670.5,5.0,206.5,2361.1,319.3,,,,,,,,,,N15/5;<20mm²;Area_I;NW_EXT;#99001;18_12_84;FST;1
+Suco2014535,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_68,579.8,21.7,193.7,2147.3,288.1,,,,,,,,,,N15/5;<20mm²;Area_I;#99001;SC;Art#495;16_1_84
+Suco2014536,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_69,656.4,6.7,210.1,2360.3,312.5,,,,,,,,,,N15/5;<20mm²;Area_I;Art#435;12_1_84
+Suco2014537,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_70,722.0,8.9,221.5,2419.4,332.3,,,,,,,,,,N15/5;<20mm²;Area_I;Art#633;14_1_84
+Suco2014538,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_71,616.7,6.4,189.7,2227.9,306.9,,,,,,,,,,N15/5;<20mm²;Area_I;Art#195;10_1_84
+Suco2014539,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_72,725.9,7.1,225.9,2470.7,314.4,,,,,,,,,,N15/5;<10mm²;Area_I;SBL_I;Art#988;26_1_84;#99988;SC
+Suco2014540,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_73,760.0,9.1,217.9,2530.2,333.8,,,,,,,,,,N15/5;<10mm²;Area_I;SBL_I;Art#869;24_1_84
+Suco2014541,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_74,641.6,8.7,203.1,2242.6,299.4,,,,,,,,,,N15/5;<10mm²;Area_I;SBL_I;Art#983;26_1_84
+Suco2014542,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_75,728.6,6.8,212.0,2394.4,309.4,,,,,,,,,,N15/5;<10mm²;Area_I;SBL_I;Art#844;24_1_84
+Suco2014543,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_77,650.8,8.2,195.6,2349.4,308.4,,,,,,,,,,N15/5;<10mm²;Area_I;SBL_I;Art#707;23_1_84
+Suco2014544,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_78,726.7,9.5,217.9,2450.9,318.6,,,,,,,,,,N15/5;<10mm²;Area_I;SBL_I;Art#776;24_1_84
+Suco2014545,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_79,778.4,8.3,236.6,2622.9,342.9,,,,,,,,,,N15/5;<10mm²;Area_I;SBL_I;Art#777;24_1_84
+Suco2014546,Pouerua,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,NAP11_80,155.4,13.4,97.7,1100.2,78.1,,,,,,,,,,N15/5;<30mm²;Area_I;Art#549;16_1_84
+Suco2014547,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_81,709.7,7.3,215.4,2510.0,339.2,,,,,,,,,,N15/5;<20mm²;Area_I;SBL_I;Art#894;24_1_84
+Suco2014548,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_82,657.1,9.2,195.8,2287.2,312.5,,,,,,,,,,N15/5;<20mm²;Area_I;SBL_I;Art#859;24_1_84
+Suco2014549,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_83,664.8,9.3,201.3,2233.1,298.2,,,,,,,,,,N15/5;<20mm²;Area_I;SBL_I;Art#887;24_1_84
+Suco2014550,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_84,696.4,8.2,206.4,2436.3,337.1,,,,,,,,,,N15/5;<20mm²;Area_I;SBL_I;Art#882;24_1_84
+Suco2014551,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_85,649.2,8.9,205.1,2285.7,309.1,,,,,,,,,,N15/5;<20mm²;Area_I;SBL_I;Art#860;24_1_84
+Suco2014552,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_86,763.0,7.9,225.8,2588.5,348.1,,,,,,,,,,N15/5;<20mm²;Area_I;SBL_I;Art#906;24_1_84
+Suco2014553,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_87,627.5,8.7,197.6,2329.8,314.7,,,,,,,,,,N15/5;<20mm²;Area_I;SBL_I;Art#706;23_1_84
+Suco2014554,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_88,704.7,6.1,217.7,2424.6,307.1,,,,,,,,,,N15/5;<20mm²;Area_I;SBL_I;Art#921;25_1_84
+Suco2014555,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_89,647.7,5.9,211.0,2271.9,309.0,,,,,,,,,,N15/5;<20mm²;Area_I;Art#437;12_1_84
+Suco2014556,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_90,614.9,7.5,213.3,2280.1,316.6,,,,,,,,,,N15/5;<20mm²;Area_I;Art#640;17_1_84;#99640;SC
+Suco2014557,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_91,702.1,5.9,223.1,2472.7,339.0,,,,,,,,,,N15/5;<20mm²;Area_I;Art#1101;31_1_84
+Suco2014558,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_92,647.9,7.8,196.3,2316.7,322.2,,,,,,,,,,N15/5;<20mm²;Area_I;Art#677;17_1_84
+Suco2014559,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_93,691.2,7.6,215.5,2374.5,317.8,,,,,,,,,,N15/5;<20mm²;Area_I;Art#533;16_1_84
+Suco2014560,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_94,705.7,7.0,218.0,2517.7,339.9,,,,,,,,,,N15/5;<20mm²;Area_I;Art#634;17_1_84
+Suco2014561,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_95,610.2,9.1,193.8,2277.1,311.3,,,,,,,,,,N15/5;<20mm²;Area_I;Art#537;16_1_84;#99537;SC
+Suco2014562,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_96,703.1,8.0,213.8,2415.3,333.6,,,,,,,,,,N15/5;<20mm²;Area_I;Art#526;16_1_84
+Suco2014563,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_97,674.1,9.3,194.5,2294.2,318.5,,,,,,,,,,N15/5;<20mm²;Area_I;Art#1102;31_1_84
+Suco2014564,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_98,695.6,10.4,211.0,2443.1,328.9,,,,,,,,,,N15/5;<20mm²;Area_I;Art#414;12_1_84;#99414;SC
+Suco2014565,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_99,685.0,9.1,223.6,2425.4,335.3,,,,,,,,,,N15/5;<20mm²;Area_I;Art#1030;1_2_84
+Suco2014566,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_100,670.8,9.6,224.7,2458.5,324.7,,,,,,,,,,N15/5;<20mm²;Area_I;Art#1027;31_1_84
+Suco2014567,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_101,715.2,9.6,222.5,2504.7,338.8,,,,,,,,,,N15/5;<20mm²;Area_I;Art#451;16_1_84;#99451;SC
+Suco2014568,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_102,652.1,7.7,206.9,2296.5,316.4,,,,,,,,,,N15/5;<20mm²;Area_I;Art#288;11_1_84
+Suco2014569,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_103,614.1,9.9,210.2,2289.4,303.7,,,,,,,,,,N15/5;<20mm²;Area_I;Art#91;9_1_84
+Suco2014570,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_104,700.8,6.3,219.7,2518.3,335.0,,,,,,,,,,N15/5;<20mm²;Area_I;Art#270;10_1_84
+Suco2014571,Pouerua,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,NAP11_105,125.4,8.9,95.2,1063.0,87.6,,,,,,,,,,N15/5;<30mm²;Area_I;SBL_I;Art#548;16_1_84
+Suco2014572,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_106,681.0,8.9,216.2,2410.4,328.7,,,,,,,,,,N15/5;<30mm²;Area_I;SBL_I;Art#981;25_1_84
+Suco2014573,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_107,675.4,9.6,220.6,2432.4,329.4,,,,,,,,,,N15/5;<30mm²;Area_I;SBL_I;Art#916;25_1_84
+Suco2014574,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_108,656.8,7.4,215.0,2391.0,334.0,,,,,,,,,,N15/5;<30mm²;Area_I;SBL_I;Art#915;25_1_84
+Suco2014575,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_109,650.6,10.4,217.8,2326.6,329.6,,,,,,,,,,N15/5;<30mm²;Area_I;SBL_I;Art#905;24_1_84
+Suco2014576,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_110,623.5,5.8,198.5,2308.5,302.7,,,,,,,,,,N15/5;<30mm²;Area_I;SBL_I;Art#999;26_1_84
+Suco2014577,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_111,693.5,8.9,202.0,2377.7,320.0,,,,,,,,,,N15/5;<30mm²;Area_I;SBL_I;Art#857;24_1_84
+Suco2014578,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_112,644.5,8.6,212.0,2362.4,327.5,,,,,,,,,,N15/5;<30mm²;Area_I;SBL_I;Art#1006;29_1_84
+Suco2014579,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_113,633.0,8.6,207.0,2395.6,314.3,,,,,,,,,,N15/5;<30mm²;Area_I;SBL_I;Art#891;24_1_84
+Suco2014580,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_114,636.3,9.8,198.4,2316.7,304.6,,,,,,,,,,N15/5;<40mm²_and_<70mm²;Area_I;Art#286;11_1_84;#99286;SC
+Suco2014581,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_115,643.2,10.0,192.3,2304.0,315.0,,,,,,,,,,N15/5;<40mm²_and_<70mm²;Area_I;Art#408;12_1_84
+Suco2014582,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_116,667.7,9.9,220.7,2454.6,335.4,,,,,,,,,,N15/5;<40mm²_and_<70mm²;Area_I;Art#605;17_1_84
+Suco2014583,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_117,677.6,9.5,214.4,2341.9,312.4,,,,,,,,,,N15/5;<40mm²_and_<70mm²;Area_I;Art#542;16_1_84
+Suco2014584,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_118,642.8,9.5,202.8,2332.3,316.0,,,,,,,,,,N15/5;<40mm²_and_<70mm²;Area_I;Art#290;11_1_84;#99290;SC
+Suco2014585,Pouerua,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,NAP11_119,177.6,24.3,106.7,1079.9,87.6,,,,,,,,,,N15/5;<40mm²;Area_I;SBL_I;Art#845;24_1_84
+Suco2014586,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_120,722.2,8.0,221.9,2506.8,333.8,,,,,,,,,,N15/5;<30mm²;Area_I;Art#63;9_1_84
+Suco2014587,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_121,648.0,10.0,210.2,2351.0,326.3,,,,,,,,,,N15/5;<30mm²;Area_I;Art#213;10_1_84
+Suco2014588,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_122,636.2,10.0,200.0,2298.2,321.7,,,,,,,,,,N15/5;<30mm²;Area_I;Art#1013;31_1_84
+Suco2014589,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_123,645.1,6.5,204.1,2321.8,301.5,,,,,,,,,,N15/5;<30mm²;Area_I;Art#1031;1_2_84
+Suco2014590,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_124,635.9,8.5,201.0,2300.1,317.7,,,,,,,,,,N15/5;<30mm²;Area_I;Art#509;16_1_84;#99509;SC
+Suco2014591,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_125,630.2,7.7,196.2,2209.7,304.6,,,,,,,,,,N15/5;<30mm²;Area_I;Art#109;9_1_84
+Suco2014592,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_126,628.5,8.9,193.0,2174.3,279.3,,,,,,,,,,N15/5;<30mm²;Area_I;Art#1;9_1_84
+Suco2014593,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_127,684.7,8.6,206.4,2403.7,322.8,,,,,,,,,,N15/5;<30mm²;Area_I;Art#64;9_1_84;#99064;SC
+Suco2014594,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_128,670.5,9.8,215.2,2431.3,335.7,,,,,,,,,,N15/5;<30mm²;Area_I;Art#36;9_1_84
+Suco2014595,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_129,644.6,7.2,217.5,2417.1,327.3,,,,,,,,,,N15/5;<30mm²;Area_I;Art#42;9_1_84
+Suco2014596,Pouerua,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,NAP11_130,136.4,37.7,36.6,179.8,8.6,,,,,,,,,,N15/5;Area_II;Quad_D;<30mm²;No640;6_12_84
+Suco2014597,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_131,698.7,9.6,213.4,2431.0,318.1,,,,,,,,,,N15/5;Area_II;Quad_D;<30mm²;No270;3_12_84
+Suco2014598,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_132,624.1,6.5,191.5,2193.0,294.8,,,,,,,,,,N15/5;Area_II;Quad_B;<20mm²;No1166;18_12_84
+Suco2014599,Pouerua,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,NAP11_133,174.6,50.5,41.9,188.9,13.5,,,,,,,,,,N15/5;Area_II;Quad_B;<20mm²;No827;12_12_84
+Suco2014600,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_134,660.6,11.0,203.8,2273.6,294.1,,,,,,,,,,N15/5;Area_II;Quad_B;<20mm²;No934;13_12_84
+Suco2014601,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_135,676.1,9.9,226.6,2395.2,302.6,,,,,,,,,,N15/5;Area_II;Quad_B;<20mm²;No1136;7_1_85
+Suco2014602,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_136,753.6,9.3,239.5,2553.4,327.6,,,,,,,,,,N15/5;Area_II;Quad_B;<20mm²;No427;4_12_84
+Suco2014603,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_137,671.4,9.1,211.7,2339.5,312.8,,,,,,,,,,N15/5;Area_II;Quad_B;<20mm²;No1120;17_10_84
+Suco2014604,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_138,769.9,5.6,227.7,2519.9,323.7,,,,,,,,,,N15/5;Area_II;Quad_B;<20mm²;No299;3_12_84
+Suco2014605,Pouerua,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,NAP11_139,157.1,41.6,41.1,177.7,11.9,,,,,,,,,,N15/5;Area_II;Quad_B;<20mm²;No296;3_12_84
+Suco2014606,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_140,684.1,8.5,219.7,2420.1,326.3,,,,,,,,,,N15/5;Area_II;Quad_B;<20mm²;No499;4_12_84
+Suco2014607,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_141,658.1,9.9,209.9,2306.5,315.5,,,,,,,,,,N15/5;Area_II;Quad_B;<20mm²;No489;4_12_84
+Suco2014608,Pouerua,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,NAP11_142,150.0,44.7,37.2,179.7,11.9,,,,,,,,,,N15/5;Area_II;Quad_B;<20mm²;No323;3_12_84
+Suco2014609,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_144,726.4,6.6,237.2,2562.1,340.4,,,,,,,,,,N15/5;Area_II;Quad_B;<20mm²;No1169;18_12_84
+Suco2014610,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_145,674.2,9.6,220.3,2429.5,321.5,,,,,,,,,,N15/5;Area_II;Quad_B;<20mm²;No779;12_12_84
+Suco2014611,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_146,598.3,6.9,186.3,2099.9,290.8,,,,,,,,,,N15/5;Area_II;Quad_B;<20mm²;No493;4_12_84
+Suco2014612,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_147,679.6,7.8,207.5,2411.4,320.0,,,,,,,,,,N15/5;Area_II;Quad_B;<20mm²;No387;3_12_84
+Suco2014613,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_148,683.3,6.8,212.1,2404.2,331.8,,,,,,,,,,N15/5;Area_II;Quad_B;<20mm²;No358;3_12_84
+Suco2014614,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_149,742.6,9.5,222.8,2523.6,327.8,,,,,,,,,,N15/5;Area_II;Quad_B;<20mm²;No451;4_12_84
+Suco2014615,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_150,721.8,8.6,213.9,2483.3,330.9,,,,,,,,,,N15/5;Area_II;Quad_B;<20mm²;No935;13_12_84
+Suco2014616,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_151,672.0,10.5,214.0,2400.4,309.8,,,,,,,,,,N15/5;Area_II;Quad_B;<20mm²;No353;3_12_84
+Suco2014617,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_152,635.1,8.1,206.8,2386.9,316.8,,,,,,,,,,N15/5;Area_II;Quad_B;<20mm²;No714;12_12_84
+Suco2014618,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_153,668.0,10.0,214.8,2412.0,320.2,,,,,,,,,,N15/5;Area_II;Quad_B;<20mm²;No858;12_12_84
+Suco2014619,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_154,725.0,7.9,218.3,2562.8,348.3,,,,,,,,,,N15/5;Area_II;Quad_B;<20mm²;No923;12_12_84
+Suco2014620,Pouerua,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,NAP11_155,154.3,7.2,114.8,1234.2,91.3,,,,,,,,,,N15/5;Area_II;Quad_B;<20mm²;No841;12_12_84
+Suco2014621,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_156,705.6,6.7,228.8,2452.0,324.2,,,,,,,,,,N15/5;Area_II;Quad_D;<20mm²;No1375;10_1_85
+Suco2014622,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_157,744.5,9.5,227.5,2476.1,319.8,,,,,,,,,,N15/5;Area_II;Quad_D;<20mm²;No1348;7_1_85
+Suco2014623,Pouerua,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,NAP11_158,171.1,38.1,38.8,166.0,10.7,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No1181;18_12_84
+Suco2014624,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_159,715.8,7.3,215.3,2434.1,324.3,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No1291;20_12_84
+Suco2014625,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_160,657.8,7.9,218.7,2294.6,317.6,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No1293;20_12_84
+Suco2014626,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_161,690.2,11.1,219.1,2389.2,328.8,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No1174;18_12_84
+Suco2014627,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_162,728.5,12.8,214.1,2391.6,317.3,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No308;3_12_84
+Suco2014628,Pouerua,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,NAP11_163,144.9,46.4,37.6,180.2,13.5,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No432;4_12_84
+Suco2014629,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_164,769.2,7.0,218.4,2513.8,324.8,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No423;4_12_84
+Suco2014630,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_165,705.9,8.6,180.0,2056.9,266.8,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No420;4_12_84
+Suco2014631,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_166,740.1,9.3,196.5,2287.7,295.5,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No419;4_12_84
+Suco2014632,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_167,658.5,11.8,199.0,2159.5,269.5,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No414;4_12_84
+Suco2014633,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_168,764.7,9.4,217.3,2430.1,322.5,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No389;4_12_84
+Suco2014634,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_169,718.5,10.0,227.3,2468.6,312.0,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No386;3_12_84
+Suco2014635,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_170,706.5,7.3,195.5,2326.9,295.0,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No385;3_12_84
+Suco2014636,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_171,650.3,11.1,198.0,2209.4,281.3,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No363;3_12_84
+Suco2014637,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_172,710.6,4.8,166.9,2069.0,261.0,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No361;3_12_84
+Suco2014638,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_173,638.7,12.2,134.9,1752.7,223.9,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No99;29_11_84
+Suco2014639,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_174,686.7,8.8,170.8,1909.3,214.0,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No273;3_12_84
+Suco2014640,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_175,702.6,16.9,212.0,2308.0,297.2,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No286;3_12_84
+Suco2014641,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_176,798.9,8.7,216.8,2596.4,333.2,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No290;3_12_84
+Suco2014642,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_177,689.3,11.3,171.3,1978.4,261.9,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No295;3_12_84
+Suco2014643,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_178,705.2,12.4,233.1,2465.4,320.6,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No297;3_12_84
+Suco2014644,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_179,720.2,5.5,195.1,2259.8,307.0,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No300;3_12_84
+Suco2014645,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_180,674.3,8.6,212.0,2406.4,319.5,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No301;3_12_84
+Suco2014646,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_181,651.3,20.8,195.9,2299.3,314.8,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No304;3_12_84
+Suco2014647,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_182,721.3,20.6,212.9,2496.3,342.1,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No521;4_12_84
+Suco2014648,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_183,709.1,7.7,213.6,2307.3,289.7,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No510;4_12_84
+Suco2014649,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_184,804.5,11.1,209.6,2541.4,318.3,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No509;4_12_84
+Suco2014650,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_186,670.9,9.2,212.6,2432.7,331.4,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No488;4_12_84
+Suco2014651,Pouerua,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,NAP11_187,179.5,44.9,32.5,192.9,13.5,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No470;4_12_84
+Suco2014652,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_188,723.2,6.3,192.8,1977.2,245.3,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No469;4_12_84
+Suco2014653,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_189,674.3,13.7,186.8,2183.2,277.0,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No467;4_12_84
+Suco2014654,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_190,714.6,12.0,210.7,2308.3,287.7,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No462;4_12_84
+Suco2014655,Pouerua,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,NAP11_191,154.1,44.4,43.1,168.5,14.3,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No443;4_12_84
+Suco2014656,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_192,728.4,8.7,226.5,2472.3,316.9,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No802;12_12_84
+Suco2014657,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_193,792.5,7.6,237.9,2572.2,324.2,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No800;12_12_84
+Suco2014658,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_194,626.7,9.3,193.3,1878.6,237.0,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No792;12_12_84
+Suco2014659,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_195,755.3,10.1,218.6,2502.2,357.0,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No785;12_12_84
+Suco2014660,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_196,790.9,9.0,229.6,2455.0,300.5,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No763;12_12_84
+Suco2014661,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_197,723.3,10.6,204.9,2344.2,304.9,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No571;4_12_84
+Suco2014662,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_198,776.7,9.5,220.5,2378.7,309.4,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No550;4_12_84
+Suco2014663,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_199,728.3,9.4,209.2,2374.6,294.0,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No537;4_12_84
+Suco2014664,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_201,720.5,9.7,203.8,2215.9,283.3,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No523;4_12_84
+Suco2014665,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_202,772.7,9.1,222.5,2511.2,318.5,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No932;13_12_84
+Suco2014666,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_203,694.6,9.4,222.4,2415.3,318.8,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No930;13_12_84
+Suco2014667,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_204,664.2,15.9,203.7,2278.5,298.7,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No929;13_12_84
+Suco2014668,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_206,768.4,7.3,227.4,2552.5,353.0,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No856;12_12_84
+Suco2014669,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_207,700.7,8.8,206.5,2315.1,301.9,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No846;12_12_84
+Suco2014670,Pouerua,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,NAP11_208,145.0,37.6,33.0,159.2,9.4,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No826;12_12_84
+Suco2014671,Pouerua,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,NAP11_209,150.4,41.6,38.2,169.5,13.0,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No819;12_12_84
+Suco2014672,Pouerua,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,NAP11_210,198.0,52.0,39.9,185.7,13.8,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No818;12_12_84
+Suco2014673,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_211,710.8,7.1,209.4,2298.1,303.3,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No813;12_12_84
+Suco2014674,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_212,705.0,8.2,206.1,2141.3,278.9,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No944;13_12_84
+Suco2014675,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_213,714.9,13.4,199.0,2177.2,272.4,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No943;13_12_84
+Suco2014676,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_214,753.2,10.1,226.1,2443.6,314.5,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No942;13_12_84
+Suco2014677,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_215,686.0,8.5,225.6,2434.3,320.8,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No941;13_12_84
+Suco2014678,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_216,698.4,10.2,196.5,2223.0,282.2,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No940;13_12_84
+Suco2014679,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_217,681.0,21.2,186.6,2125.9,286.8,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No939;13_12_84
+Suco2014680,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_218,764.4,22.8,223.2,2600.5,336.9,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No938;13_12_84
+Suco2014681,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_219,774.4,7.5,229.8,2619.3,325.7,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No937;13_12_84
+Suco2014682,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_220,806.8,12.2,223.0,2538.2,310.9,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No936;13_12_84
+Suco2014683,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_221,606.0,10.7,158.8,1748.8,220.3,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No933;13_12_84
+Suco2014684,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_222,660.2,9.4,196.1,2245.6,303.7,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No975;13_12_84
+Suco2014685,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_223,772.8,13.3,219.9,2472.7,316.8,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No962;13_12_84
+Suco2014686,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_224,692.2,10.5,199.8,2310.0,299.1,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No957;13_12_84
+Suco2014687,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_225,563.7,11.3,144.1,1549.7,193.0,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No953;13_12_84
+Suco2014688,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_226,721.7,9.0,223.0,2401.4,321.0,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No952;13_12_84
+Suco2014689,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_227,454.4,10.0,105.6,1191.5,153.6,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No949;13_12_84
+Suco2014690,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_228,854.0,10.1,223.6,2551.6,329.8,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No948;13_12_84
+Suco2014691,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_229,694.8,12.2,174.6,2025.1,251.2,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No947;13_12_84
+Suco2014692,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_230,789.1,13.7,202.5,2320.3,304.9,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No946;13_12_84
+Suco2014693,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_231,634.3,11.9,168.3,2031.1,262.5,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No945;13_12_84
+Suco2014694,Pouerua,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,NAP11_232,146.6,58.2,39.3,192.7,10.8,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No1165;18_12_84
+Suco2014695,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_233,687.5,8.3,215.9,2408.5,326.8,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No1118;14_12_84
+Suco2014696,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_234,837.7,13.4,229.6,2556.4,336.9,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No1106;17_12_84
+Suco2014697,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_235,658.8,14.4,199.3,2302.7,301.9,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No1094;17_12_84
+Suco2014698,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_236,788.1,8.1,237.3,2472.4,317.1,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No1087;17_12_84
+Suco2014699,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_237,782.8,11.7,212.0,2291.0,288.1,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No1002;13_12_84
+Suco2014700,Pouerua,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,NAP11_238,155.4,39.7,38.6,172.5,11.0,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;N997;13_12_84
+Suco2014701,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_239,625.1,7.6,194.2,2194.9,298.4,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No988;13_12_84
+Suco2014702,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_240,825.3,8.4,237.5,2532.1,315.7,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No979;13_12_84
+Suco2014703,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_241,633.8,4.3,161.6,1820.6,232.0,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No978;13_12_84
+Suco2014704,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_242,717.4,15.2,204.5,2285.9,295.0,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No331;3_12_84
+Suco2014705,Pouerua,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,NAP11_244,147.5,44.0,35.8,157.1,12.9,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No3;29_11_84
+Suco2014706,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_245,748.3,7.9,214.6,2384.1,311.5,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No43;29_11_84
+Suco2014707,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_246,721.3,7.0,220.8,2377.1,303.6,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No52;29_11_84
+Suco2014708,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_247,709.5,9.9,210.0,2417.1,312.0,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No70;29_11_84
+Suco2014709,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_248,673.8,9.8,197.7,2249.6,307.7,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No75;29_11_84
+Suco2014710,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_249,728.1,9.5,184.3,2215.8,284.9,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No77;29_11_84
+Suco2014711,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_250,794.0,8.4,207.8,2451.4,321.2,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No98;29_11_84
+Suco2014712,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_251,741.4,8.9,210.3,2263.0,287.0,,,,,,,,,,N15/5;Area_II;Quad_B;<10mm²;No79;29_11_84
+Suco2014713,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_252,665.5,6.2,215.8,2440.7,328.5,,,,,,,,,,N15/5;Area_II;Quad_D;<20mm²;No262;3_12_84
+Suco2014714,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_253,680.1,10.6,223.3,2456.9,325.5,,,,,,,,,,N15/5;Area_II;Quad_D;<20mm²;No702;11_12_84
+Suco2014715,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_254,719.7,10.7,224.5,2538.2,353.3,,,,,,,,,,N15/5;Area_II;Quad_D;<20mm²;No729;11_12_84
+Suco2014716,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_255,639.4,10.2,219.0,2352.1,317.3,,,,,,,,,,N15/5;Area_II;Quad_D;<20mm²;No749;11_12_84
+Suco2014717,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_256,722.7,5.2,213.2,2458.4,330.1,,,,,,,,,,N15/5;Area_II;Quad_D;<20mm²;No1372;10_1_85
+Suco2014718,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_257,691.4,8.0,219.1,2490.5,325.2,,,,,,,,,,N15/5;Area_II;Quad_D;<20mm²;No1483;24_1_85
+Suco2014719,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_258,672.9,7.8,209.6,2405.0,333.4,,,,,,,,,,N15/5;Area_II;Quad_D;<20mm²;No1496;30_1_85
+Suco2014720,Pouerua,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,NAP11_259,140.3,7.3,103.0,1202.6,92.3,,,,,,,,,,N15/5;Area_II;Quad_D;<20mm²;No238;30_11_84
+Suco2014721,Pouerua,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,NAP11_260,140.2,37.9,38.3,167.1,13.6,,,,,,,,,,N15/5;Area_II;Quad_B;<20mm²;No1337;7_1_84;Whangamata
+Suco2014722,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_261,724.4,11.0,206.1,2492.2,337.7,,,,,,,,,,N15/5;Area_II;Quad_C;<20mm²;No1384;14_1_85
+Suco2014723,Pouerua,Green filter 40kv 8ma,Artefact,CVZ-N,Fanal Island,NAP11_262,181.7,34.7,40.2,263.0,8.6,,,,,,,,,,N15/5;Area_II;Quad_C;<20mm²;No1419;15_1_85
+Suco2014724,Pouerua,Green filter 40kv 8ma,Artefact,CVZ-N,Fanal Island,NAP11_263,187.7,37.3,42.6,260.6,9.9,,,,,,,,,,N15/5;Area_II;Quad_C;<20mm²;No1416;15_1_85
+Suco2014725,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_264,688.0,7.4,198.2,2317.6,310.6,,,,,,,,,,N15/5;Area_II;Quad_C;<20mm²;No1415;15_1_85
+Suco2014726,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_265,738.2,10.9,208.0,2421.4,293.0,,,,,,,,,,N15/5;Area_II;Quad_C;<20mm²;No1428;15_1_85
+Suco2014727,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_268,826.5,9.4,217.8,2553.3,335.3,,,,,,,,,,N15/5;Area_II;Quad_D;<10mm²;No710;11_12_84
+Suco2014728,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_269,710.6,12.3,200.8,2402.3,317.9,,,,,,,,,,N15/5;Area_II;Quad_D;<10mm²;No166;30_11_84
+Suco2014729,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_270,712.0,8.9,205.2,2330.1,313.0,,,,,,,,,,N15/5;Area_II;Quad_D;<10mm²;No644;6_21_84
+Suco2014730,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_272,697.0,8.3,224.9,2480.4,329.8,,,,,,,,,,N15/5;Area_II;Quad_D;<10mm²;No638;6_12_84
+Suco2014731,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_273,845.0,7.7,226.9,2657.7,346.7,,,,,,,,,,N15/5;Area_III;Trench_II;<10mm²;No8;15_1_85
+Suco2014732,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_274,746.7,9.4,219.5,2487.2,318.1,,,,,,,,,,N15/5;Area_III;Trench_II;<10mm²;No17;15_1_85
+Suco2014733,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_275,739.0,7.9,215.1,2429.5,318.0,,,,,,,,,,N15/5;Area_III;Trench_II;<10mm²;No71;15_1_85
+Suco2014734,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_276,785.2,7.5,218.9,2453.8,327.7,,,,,,,,,,N15/5;Area_III;Trench_II;<10mm²;No72;15_1_85
+Suco2014735,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_277,675.4,10.6,168.2,1948.9,242.6,,,,,,,,,,N15/5;Area_III;Trench_I;<10mm²;No95;16_1_85
+Suco2014736,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_278,715.0,12.0,221.1,2490.0,316.5,,,,,,,,,,N15/5;Area_III;Trench_I;<10mm²;No93;16_1_85
+Suco2014737,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_279,649.8,7.1,205.5,2199.5,283.6,,,,,,,,,,N15/5;Area_III;Trench_I;<10mm²;No90;15_1_85
+Suco2014738,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_280,765.2,6.4,212.7,2168.0,263.2,,,,,,,,,,N15/5;Area_III;Trench_I;<10mm²;No86;16_1_85
+Suco2014739,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_281,665.7,5.9,224.5,2375.6,319.8,,,,,,,,,,N15/5;Area_III;Trench_I;<10mm²;No85;16_1_85
+Suco2014740,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_282,709.9,8.5,196.1,2159.8,259.5,,,,,,,,,,N15/5;Area_III;Trench_I;<10mm²;No65;15_1_85
+Suco2014741,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_283,588.7,9.4,150.2,1788.8,226.3,,,,,,,,,,N15/5;Area_III;Trench_I;<10mm²;No64;15_1_85
+Suco2014742,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_284,703.4,8.2,214.1,2397.1,305.4,,,,,,,,,,N15/5;Area_III;Trench_I;<10mm²;No51;15_1_85
+Suco2014743,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_285,677.1,8.6,197.2,2279.3,294.1,,,,,,,,,,N15/5;Area_III;Trench_I;<10mm²;No33;15_1_85
+Suco2014744,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_286,622.0,7.6,189.2,2149.8,282.4,,,,,,,,,,N15/5;Area_III;Trench_I;<20mm²;No39;15_1_85
+Suco2014745,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_287,591.9,8.3,191.6,2177.1,301.1,,,,,,,,,,N15/5;Area_III;Trench_I;<20mm²;No50;15_1_85
+Suco2014746,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_289,678.7,8.7,205.3,2361.5,315.2,,,,,,,,,,N15/5;Area_III;Quad_Z;<10mm²;No22;23_1_85;#99022;SC
+Suco2014747,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_290,748.9,10.5,215.9,2392.4,310.1,,,,,,,,,,N15/5;Area_III;Quad_Z;<10mm²;No3;23_1_85;#99003;SC
+Suco2014748,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_291,649.9,5.3,207.2,2298.9,305.7,,,,,,,,,,N15/5;Area_III;Quad_Z;<10mm²;No184
+Suco2014749,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_292,672.0,8.0,196.1,2162.6,282.6,,,,,,,,,,N15/5;Area_III;Quad_Z;<10mm²;No177;12_2_85
+Suco2014750,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_293,773.2,10.7,195.7,2245.9,273.5,,,,,,,,,,N15/5;Area_III;Quad_Z;<10mm²;No175;12_2_85
+Suco2014751,Pouerua,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,NAP11_294,144.0,38.4,36.2,161.1,12.8,,,,,,,,,,N15/5;Area_III;Quad_Z;<10mm²;No174;12_2_85
+Suco2014752,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_295,687.3,9.2,206.0,2308.0,301.7,,,,,,,,,,N15/5;Area_III;Quad_Z;<10mm²;No103;30_1_85
+Suco2014753,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_296,671.8,9.9,212.5,2338.1,328.7,,,,,,,,,,N15/5;Area_III;Quad_Z;<10mm²;No74;24_1_85
+Suco2014754,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_297,711.8,9.5,212.1,2520.5,336.4,,,,,,,,,,N15/5;Area_III;Quad_Y;<10mm²;No34;4_2_85;#99034;SC
+Suco2014755,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_298,701.0,7.7,206.8,2400.4,311.8,,,,,,,,,,N15/5;Area_III;Quad_Y;<10mm²;No49;4_2_85
+Suco2014756,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_299,666.8,8.0,214.4,2384.6,317.2,,,,,,,,,,N15/5;Area_III;Quad_Y;<10mm²;No40;4_2_85
+Suco2014757,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_300,792.2,7.4,194.0,2206.1,272.8,,,,,,,,,,N15/5;Area_III;Quad_Y;<10mm²;No37;4_2_85
+Suco2014758,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_301,683.6,8.4,204.9,2382.2,313.2,,,,,,,,,,N15/5;Area_III;Quad_Y;<10mm²;No29;29_1_85
+Suco2014759,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_302,721.1,12.2,205.9,2371.3,309.0,,,,,,,,,,N15/5;Area_III;Quad_Y;<10mm²;No27;29_1_85
+Suco2014760,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_303,781.2,7.6,231.1,2495.9,312.4,,,,,,,,,,N15/5;Area_III;Quad_Y;<10mm²;No26;29_1_85
+Suco2014761,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_304,681.5,8.8,186.2,2024.0,245.8,,,,,,,,,,N15/5;Area_III;Quad_Y;<10mm²;No25;29_1_85
+Suco2014762,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_305,737.9,9.8,192.4,2214.0,273.3,,,,,,,,,,N15/5;Area_III;Quad_Y;<10mm²;No24;29_1_85
+Suco2014763,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_306,489.3,13.3,98.2,1241.1,160.4,,,,,,,,,,N15/5;Area_III;Quad_Y;<10mm²;No22;29_1_85
+Suco2014764,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_307,745.1,7.5,226.8,2548.3,337.6,,,,,,,,,,N15/5;Area_III;Quad_Y;<10mm²;No12;29_1_85
+Suco2014765,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_308,665.7,10.4,218.2,2377.7,322.2,,,,,,,,,,N15/5;Area_III;Trench_II;<20mm²;No115;16_1_85
+Suco2014766,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_309,620.3,8.7,188.0,2212.2,289.3,,,,,,,,,,N15/5;Area_III;Trench_I;<20mm²;No53;15_1_85
+Suco2014767,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_311,692.5,9.2,201.8,2436.1,324.6,,,,,,,,,,N15/5;Trench_II;23_1_84;No72
+Suco2014768,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_312,672.5,9.5,204.6,2355.7,317.1,,,,,,,,,,N15/5;18_1;Yvonne_Marshall;Found_in_the_eroding_bank_on_the_Eastern_Side_of_the_Top_terrace_with_the_Tig_on_it;Directly_below_trig_ca_2m
+Suco2014769,Pouerua,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,NAP11_313,137.7,41.9,39.0,170.2,12.6,,,,,,,,,,N15/5;No_details
+Suco2014770,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_315,666.1,7.8,210.4,2368.3,325.7,,,,,,,,,,N15/5;Trench_I;Art#8;14_1;L1
+Suco2014771,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_316,582.3,11.7,198.3,2117.4,294.9,,,,,,,,,,N15/5;Trench_I;Art#16;14_1;Ditch_Lens
+Suco2014772,Pouerua,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,NAP11_318,128.1,6.8,97.8,1061.9,79.2,,,,,,,,,,Obsidian_associated_with_argillite_adze;Not_located;Surface_collection;No1
+Suco2014773,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_319,581.4,6.9,185.8,2126.0,280.4,,,,,,,,,,Not_Located;Surface_collection;No2
+Suco2014774,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_320,649.6,9.8,211.4,2365.5,318.0,,,,,,,,,,Surface_collection;No3
+Suco2014775,Pouerua,Green filter 40kv 8ma,Artefact,TVZ,Taupo,NAP11_321,120.3,88.6,27.2,172.7,7.3,,,,,,,,,,Surface_collection;No4
+Suco2014776,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_322,650.8,9.8,209.2,2351.7,327.9,,,,,,,,,,Surface_collection;No5
+Suco2014777,Pouerua,Green filter 40kv 8ma,Artefact,Mayor Island,Mayor Island,NAP11_323,136.2,7.0,101.7,1161.6,89.0,,,,,,,,,,Surface_collection;No6
+Suco2014778,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_324,679.4,8.1,216.2,2388.6,332.9,,,,,,,,,,Surface_collection;No8
+Suco2014779,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_325,673.1,8.3,215.7,2407.3,329.6,,,,,,,,,,Surface_collection;No9
+Suco2014780,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_326,656.3,11.0,207.5,2354.4,317.1,,,,,,,,,,Surface_collection;No10
+Suco2014781,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_327,658.1,8.3,201.8,2340.2,313.3,,,,,,,,,,Surface_collection;No11
+Suco2014782,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_328,691.0,8.8,196.4,2385.2,327.0,,,,,,,,,,Surface_collection;No12
+Suco2014783,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_332,635.3,9.6,182.6,2246.0,308.1,,,,,,,,,,N15/505;Area_IV;No.194
+Suco2014784,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_333,725.3,7.3,224.1,2369.3,302.7,,,,,,,,,,N15/505;Area_IV;No.161
+Suco2014785,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_334,639.2,7.5,202.8,2323.1,308.4,,,,,,,,,,N15/5;Area_II;Quad_B;No.999;13_12_84
+Suco2014786,Pouerua,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,NAP11_335,172.9,42.6,44.9,169.1,14.1,,,,,,,,,,N15/5;Area_II;Quad_B;No.980;13_12_84
+Suco2014787,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_336,656.1,6.0,200.3,2312.7,307.7,,,,,,,,,,N15/5;Area_II;Quad_B;No.992;13_12_84
+Suco2014788,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_337,656.1,11.1,216.7,2374.0,318.8,,,,,,,,,,N15/5;Area_II;Quad_B;No.836;12_12_84
+Suco2014789,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_338,698.5,7.9,219.8,2432.1,324.9,,,,,,,,,,N15/5;Area_II;Quad_B;No.965;13_12_84
+Suco2014790,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_339,612.1,7.9,192.7,2197.9,298.1,,,,,,,,,,N15/5;Area_II;Quad_B;No.855;12_12_84
+Suco2014791,Pouerua,Green filter 40kv 8ma,Artefact,CVZ-N,Huruiki,NAP11_340,133.6,42.8,38.9,167.6,9.8,,,,,,,,,,N15/5;Area_II;Quad_B;No.820;12_12_84
+Suco2014792,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_341,592.3,8.5,202.0,2140.1,285.8,,,,,,,,,,N15/5;Area_II;Quad_B;No.815;12_12_84
+Suco2014793,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_342,639.6,8.2,214.3,2371.8,318.3,,,,,,,,,,N15/5;Area_II;Quad_B;No.807;12_12_84
+Suco2014794,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_343,684.3,6.9,220.1,2427.8,325.6,,,,,,,,,,N15/5;Area_II;Quad_B;No.585;4_12_84
+Suco2014795,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_344,614.1,7.6,193.4,2186.1,301.0,,,,,,,,,,N15/5;Area_II;Quad_B;No.479;4_12_84
+Suco2014796,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_345,667.2,7.2,206.5,2349.7,308.7,,,,,,,,,,N15/5;Area_II;Quad_B;No.1;29_11_84
+Suco2014797,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_346,664.3,7.7,219.0,2342.8,314.4,,,,,,,,,,N15/5;Area_II;Quad_B;No.303;3_12_84
+Suco2014798,Pouerua,Green filter 40kv 8ma,Artefact,Northland,Kaeo,NAP11_347,669.7,9.6,214.1,2341.2,326.7,,,,,,,,,,N15/5;Area_II;Quad_B;No.310;3_12_84
