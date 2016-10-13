@@ -1,0 +1,1 @@
+Another dataset with a bit of temporal patterning is from McCoy et al 2014  (also attached).  That dataset is from a single location, Pouerua (multiple “sites” within that location), and consists of 574 obsidian artefacts from three time periods from six sources.

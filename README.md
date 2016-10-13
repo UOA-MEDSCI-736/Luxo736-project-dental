@@ -1,56 +1,90 @@
-# Project-Obsidian objects Dating and Features
-  
-##Project Vision
+# Project Title
 
-- Utilize Python software to recognize and administrated features of obsidian objects
+Obsidian seeker software provide a resume of features associated with a particular obsidian object. This tool create an individual identification for any artefect made of Obsidian rock.
 
-## Mission
+## Getting Started
 
-- Produce a piece of Python software to create networks and organize data of obsidian objects .
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-## Success Criteria
+### Prerequisities
 
-- Obtain basic instrucction to use Python software in order to organize networks of obsidian objects.
-- Obtain knowledge based on team members experiences.
-- Improve team members dialog to solve issues related to individual projects.
-- Programming  Python software according to project necessities.
-- Obtain good grades to continue further studies.
-- Develop new skills in computer programming
+What things you need to install the software and how to install them
+Python 3   adding link
+```
+Give examples
+```
 
-## Behaviour Agreement
+### Installing
 
-- Be respectful.
-- Be responsible for your personal project.
-- Be helpful and communicative.
-- Be innovative and supportive with new ideas.
-- Share difficulties  and solutiuons.
-- Be friendly and kind with everybody.
-- keep always possitive and with open mind.
-- No leave doubts for next class.
-- Improve previous manners and learn new ones from others.
-- Respect break time in scenarios such as supervisory meetings or classes.
+A step by step series of examples that tell you have to get a development env running
 
-##Communication Agreement
+Say what the step will be
 
-- Make an easy way to contact members by compleating a board with emails,mobile numbers, and best way or time to contact each one.
-- Interact more with people that keep in silence to ensure they feel part of the team.
-- Work on doubts within the class with a supervisors to avoid future difficulties.
-- Keep constant  contact with supervisors.
-- Be specific  and brief with your emails. Easy to read ,save time.
-- Arrive to class with new questions related to the advances in individual projects.
-- Youtube and tutorials could be  also useful in case urgently communication is unsuccessful.
+```
+Give the example
+```
 
-##Team Members
-Owner(s): 
-- Dr Dion O'Neale
-- Luis Miguel Escalante
+And repeat
 
-Developer(s)/Scrum Team:
-- Dr Dion O'Neale
-- Luis Miguel Escalante 
-- Tutors staff
-- Classmates
+```
+until finished
+```
 
-Scrum Master:
-- Tutors Staff
-- Luis Miguel Escalante
+End with an example of getting some data out of the system or using it for a little demo
+
+## Running the tests
+
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* Dropwizard - Bla bla bla
+* Maven - Maybe
+* Atom - ergaerga
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors
+
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone who's code was used
+* Inspiration
+* etc
+
+
+ 
