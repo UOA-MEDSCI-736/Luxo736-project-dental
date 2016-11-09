@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+=======
 # Project Title
 
 Obsidian seeker software provide a resume of features associated with a particular obsidian object. This tool create an individual identification for any artefect made of Obsidian rock.
@@ -86,5 +88,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Inspiration
 * etc
 
+>>>>>>> 540aec9f68ff2df53852d0ffcd43bad982fc0a28
 
  
